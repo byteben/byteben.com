@@ -1,4 +1,5 @@
-baseURL = 'https://byteben.com/'
+baseURL = 'https://byteben.com/bb/'
+publishDir = 'public/bb'
 title = 'byteben'
 theme = 'LoveIt'
 languageCode = 'en'
