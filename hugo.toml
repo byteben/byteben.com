@@ -1,0 +1,111 @@
+baseURL = 'https://byteben.com/'
+title = 'byteben'
+theme = 'LoveIt'
+languageCode = 'en'
+enableEmoji = true
+enableRobotsTXT = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 6
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = true
+    noClasses = false
+
+[permalinks]
+  posts = '/bb/:slug/'
+
+[taxonomies]
+  category = 'categories'
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  page = ["HTML"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+
+[menu]
+  [[menu.main]]
+    weight = 1
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+  [[menu.main]]
+    weight = 2
+    identifier = "categories"
+    name = "Categories"
+    url = "/categories/"
+  [[menu.main]]
+    weight = 3
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+
+[params]
+  defaultTheme = "auto"
+  dateFormat = "2006-01-02"
+  title = "byteben"
+  description = "Systems Architect @PatchMyPC | Microsoft Security MVP"
+
+  [params.author]
+    name = "Ben Whitmore"
+    email = "ben@byteben.com"
+    link = "https://byteben.com"
+
+  [params.header]
+    desktopMode = "fixed"
+    mobileMode = "auto"
+    [params.header.title]
+      name = "byteben"
+      typeit = false
+
+  [params.footer]
+    enable = true
+    hugo = false
+    copyright = true
+    author = true
+    since = 2013
+
+  [params.home]
+    [params.home.profile]
+      enable = true
+      avatarURL = ""
+      title = "Ben Whitmore"
+      subtitle = "Systems Architect @PatchMyPC | Microsoft Security MVP"
+      typeit = false
+      social = true
+    [params.home.posts]
+      enable = true
+      paginate = 10
+
+  [params.social]
+    Linkedin = "https://uk.linkedin.com/in/byteben"
+    Twitter = "byteben"
+    GitHub = "byteben"
+    RSS = false
+
+  [params.search]
+    enable = true
+    type = "lunr"
+    contentLength = 4000
+    maxResultLength = 10
+    snippetLength = 30
+    highlightTag = "em"
+
+  [params.page]
+    linkToMarkdown = false
+    [params.page.toc]
+      enable = true
+      keepStatic = false
+      auto = true
+    [params.page.code]
+      copy = true
+      maxShownLines = 50
+    [params.page.share]
+      enable = true
+      Linkedin = true
