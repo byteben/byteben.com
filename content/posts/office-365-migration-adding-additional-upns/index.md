@@ -5,6 +5,7 @@ categories:
   - "Identity"
   - "Microsoft"
   - "Office 365"
+tags: ["identity", "non-routable-domain", "office-365", "upn", "upn-suffix"]
 ---
 
 In my previous post [office-365-migration-user-attribute-discovery-export-powershell/](https://byteben.com/bb/office-365-migration-user-attribute-discovery-export-powershell/) I described the importance of matching your user UPN with their primary SMTP Address.

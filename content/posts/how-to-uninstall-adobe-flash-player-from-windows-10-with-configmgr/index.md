@@ -6,6 +6,7 @@ categories:
   - "Microsoft"
   - "Scripts"
   - "Windows 10"
+tags: ["adobe-flash-player", "edge", "flash-eol", "powershell-script-remove-flash", "remove-flash", "windows-10"]
 ---
 
 > **Update 22/01/21**

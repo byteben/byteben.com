@@ -6,6 +6,7 @@ categories:
   - "Identity"
   - "Microsoft"
   - "Scripts"
+tags: ["azure-ad", "device-limit", "device-registration", "down-level-devices", "workplace-join"]
 ---
 
 ### The Challenge

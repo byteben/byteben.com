@@ -5,6 +5,7 @@ categories:
   - "Mitel"
   - "Mitel Contact Centre (PFyre)"
   - "Scripts"
+tags: ["mitel", "mitel-contactcentre-prairiefyre", "scripts-2"]
 ---
 
 Rolling out Windows 7 64bit prompted me to create an installation script for our PrairieFyre Contact Center Client. It is fairly basic, we install some prerequisites, the Contact Center Client (CCC) with the IP address of the server and then do a bit of cleaning up (vcredist is so messy and dumps its installation files into the root...blah). Ok, first of all we need to extract all the necessary setup files onto our server share.

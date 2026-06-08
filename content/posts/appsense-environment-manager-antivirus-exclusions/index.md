@@ -4,6 +4,7 @@ date: 2013-06-09
 categories:
   - "AppSense"
   - "AppSense Environment Manager"
+tags: ["antivirus", "antivirus-exclusions", "appsense", "appsense-environmentmanager", "trend-micro"]
 ---
 
 Antivirus software...I liken it to those bead screens that hang down from your back door. Most of the time they don't bother you and just get on with the job of keeping out the flies but when you want to go through them you end up re-living a scene in an episode of LOST when the beads "come alive". AV is the same, most of the time it just sits there behaving nicely but every now and then it just plain becomes annoying. To avoid any "John Locke" jungle moments, below are some exclusions to add to your AV scanner when using AppSense Environment Manager:-<!--more-->

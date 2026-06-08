@@ -7,6 +7,7 @@ categories:
   - "AppSense Environment Manager"
   - "AppSense Environment Manager Configurations"
   - "Scripts"
+tags: ["appsense", "appsense-environmentmanager", "appsense-environmentmanager-configurations", "appsense-environmentmanager-scripts-2", "desktop-settings", "emcoreservice", "emexit-bat", "gpt-ini", "session-data"]
 ---
 
 No session data or Desktop Settings saved at Logoff? We came across this particular problem on about 30 of our Windows 7 PCs. They were all born from the same Gold image as the other working 300 or so desktops (we are about half way through our Windows 7 migration) but these few PCs all presented the same issue. We were seeing no Session Data, Desktop Settings or Logoff actions completing at User Logoff.<!--more-->

@@ -4,6 +4,7 @@ date: 2019-01-11
 categories:
   - "Intune"
   - "Microsoft"
+tags: ["app-protection-policy", "ems", "intune", "pin", "policy"]
 ---
 
 The Intune Team announced a nifty app protection policy addition for the "Week of January 7, 2019" edition > [https://docs.microsoft.com/en-us/intune/whats-new](https://docs.microsoft.com/en-us/intune/whats-new)  

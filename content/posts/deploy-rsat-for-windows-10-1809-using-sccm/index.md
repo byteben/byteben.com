@@ -5,6 +5,7 @@ categories:
   - "ConfigMgr / MEMCM / SCCM"
   - "Microsoft"
   - "Scripts"
+tags: ["1809", "configmgr", "rsat", "sccm", "windows-10"]
 ---
 
 Starting Windows 10 1809 Remote Server Administration Tools (RSAT) is now included as a set of "Features on Demand". In the following post we will show you how to deploy individual features with SCCM.

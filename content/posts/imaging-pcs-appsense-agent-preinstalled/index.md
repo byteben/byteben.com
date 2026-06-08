@@ -7,6 +7,7 @@ categories:
   - "AppSense Environment Manager"
   - "AppSense Environment Manager Configurations"
   - "Scripts"
+tags: ["appsense", "appsense-environmentmanager", "appsense-environment-manager-agent", "appsense-environmentmanager-configurations", "appsense-environmentmanager-scripts-2", "scripts-2"]
 ---
 
 Lets set the scene..You are rolling out hundreds of PCs with Windows 7 and you want all the agents preinstalled..naturally. Well the AppSense Environment Manager Agent is no exception.

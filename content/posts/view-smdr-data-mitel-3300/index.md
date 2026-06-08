@@ -4,6 +4,7 @@ date: 2013-05-26
 categories:
   - "Mitel"
   - "Mitel 3300"
+tags: ["mitel", "mitel-3300", "mitel-smdr", "smdr-cos"]
 ---
 
 Lets keep this one short and sweet, 3 words...<!--more-->

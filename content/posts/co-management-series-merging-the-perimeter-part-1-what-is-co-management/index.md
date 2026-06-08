@@ -5,6 +5,7 @@ categories:
   - "ConfigMgr / MEMCM / SCCM"
   - "Intune"
   - "Microsoft"
+tags: ["co-exist", "sccm", "workloads"]
 ---
 
 In the following series we will take a deep dive into Co-management. Co-management is a technology that harmonizes workloads between the the Intune and SCCM agent. It is a unique relationship that only Intune and SCCM can be part of. Other MDM vendors can only "co-exist" with SCCM - infact when the SCCM agent sees another MDM vendor managing a device, all (well nearly all) SCCM workloads are disabled, resulting in the SCCM agent performing basic inventory task - what a wasted investment.

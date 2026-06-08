@@ -3,6 +3,7 @@ title: "ESXi Host Slow Boot stuck on vmw_satp_alua"
 date: 2018-08-15
 categories:
   - "VMware"
+tags: ["esxi", "perennially-reserved", "slow-boot", "vmw_satp_alua", "vmware"]
 ---
 
 So I came across this recently while upgrading ESXi hosts. Part of the phased migration to vSphere 6.7 was to get our ESXi hosts from version 5.5 to version 6.0. The normal applied, evacuate the vms using DRS, put it in maintenenace mode, attach the ESXi 6.0 baseline upgrade, remediate the host and......3 hours later the host appears on the radar. What! 3 Hours?

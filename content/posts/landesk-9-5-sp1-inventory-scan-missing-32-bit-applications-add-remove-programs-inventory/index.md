@@ -4,6 +4,7 @@ date: 2013-09-20
 categories:
   - "Landesk"
   - "Landesk Managment Suite"
+tags: ["32bit-programs-missing", "cr75998-95", "landesk", "landesk-managmentsuite", "ldiscn32", "ldms-9-5-sp1"]
 ---
 
 So you have upgraded your LDMS Core and Agents to 9.5 SP1. Everything looks tickety boo and you notice some of your software queries are not working anymore. Upon further investigation you notice that you are missing applications in "add and remove programs" in your software inventory. The ldiscn32.exe packaged in SP1 is not returning 32-bit applications to your inventory. Bumpers! Run for the hills...<!--more-->

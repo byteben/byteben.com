@@ -5,6 +5,7 @@ categories:
   - "AppSense"
   - "AppSense Environment Manager"
   - "AppSense Environment Manager Configurations"
+tags: ["csidl_appdatamicrosoftexcel", "csidl_appdatamicrosoftword", "appsense", "appsense-application-group", "appsense-environmentmanager", "appsense-environmentmanager-configurations", "autorecover", "office-2010", "office-2010-personalization"]
 ---
 
 Microsoft Office 2010 can be personalised with AppSense Environment Manager. AppSense have a "Best Practice" guide which is available from www.myappsense.com. The guys did a good job with it and we used it as a baseline. Most of the information here is reflected in the guide but, and please don't drag me over the coals, we do some of the %appdata% folder includes\\excludes differently, and I'll explain why. <!--more-->

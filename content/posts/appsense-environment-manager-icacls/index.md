@@ -7,6 +7,7 @@ categories:
   - "AppSense Environment Manager"
   - "AppSense Environment Manager Configurations"
   - "Microsoft"
+tags: ["appsense", "appsense-environmentmanager", "appsense-environmentmanager-configurations", "icacls", "ie-print-preview", "kb973479"]
 ---
 
 Hey, Ben here. I'm sitting at home today nursing a poorly baby with a fever so i thought i'd throw this quick article together out on how to use Microsoft ICACLS to set folder/file permissions using AppSense Environment Manager. ICACLS is a neat tool included in Windows 7/Server 2008 OS that allows you to view and modify the access control lists for files and folders on your NTFS file system.

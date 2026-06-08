@@ -4,6 +4,7 @@ date: 2018-12-28
 categories:
   - "ConfigMgr / MEMCM / SCCM"
   - "Microsoft"
+tags: ["configmgr", "powershell", "sccm", "software-updates", "vmware", "wmi"]
 ---
 
 Try saying that title again without taking a breath, phew.

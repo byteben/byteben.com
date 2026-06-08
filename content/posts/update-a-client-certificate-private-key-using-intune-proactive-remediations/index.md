@@ -7,6 +7,7 @@ categories:
   - "Microsoft"
   - "Scripts"
   - "Windows 10"
+tags: ["acl", "certificates", "intune", "mempowered", "msintune", "powershell", "private-key", "proactive-remediations"]
 ---
 
 It is not unusual to still see 3rd party products being used in Windows 10. Brad Anderson said "Making a big impact starts with making things really simple" when he outlined Microsoft's vision for modern management. I get this completely and agree with the rhetoric but some orgs are still trying to come around to the idea of "Modern" and some die hard admins just won't let go of their tried and tested tech.

@@ -4,6 +4,7 @@ date: 2019-04-05
 categories:
   - "ConfigMgr / MEMCM / SCCM"
   - "Microsoft"
+tags: ["configmgr", "sccm", "servicing-stack", "ssu", "wsus"]
 ---
 
 ### What are Servicing Stack Updates?

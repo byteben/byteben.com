@@ -5,6 +5,7 @@ categories:
   - "Intune"
   - "Microsoft"
   - "Windows 10"
+tags: ["endpoint-analytics", "mempowered", "msintune", "proactive-remediations"]
 ---
 
 In this Lab video we dive into a feature of Endpoint Analytics in Microsoft Intune called "Proactive Remediations"

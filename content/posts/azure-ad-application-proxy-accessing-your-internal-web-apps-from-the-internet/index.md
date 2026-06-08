@@ -6,6 +6,7 @@ categories:
   - "Identity"
   - "Microsoft"
   - "Windows 10"
+tags: ["aad", "aad-application-proxy", "azure", "azure-active-directory", "intranet", "proxy-connector"]
 ---
 
 Welcome to this blog post on Azure Active Directory Application Proxy. This post comes off the back of an awesome day at the East of England Microsoft User Group #EEMUG. In this post we will take you through the fundamentals and the requirements of Azure AD Application Proxy and how to publish your internal Web Apps to Internet connected users.

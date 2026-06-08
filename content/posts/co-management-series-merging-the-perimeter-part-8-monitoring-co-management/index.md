@@ -6,6 +6,7 @@ categories:
   - "Intune"
   - "Microsoft"
   - "Windows 10"
+tags: ["co-management", "comanagementhandler", "comgmt", "configmgr", "logs", "monitoring", "msintune", "sccm"]
 ---
 
 In the final part of the series we will look at the different ways of monitoring Co-management.

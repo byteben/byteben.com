@@ -5,6 +5,7 @@ categories:
   - "Azure"
   - "Intune"
   - "Microsoft"
+tags: ["configuration", "device-compliance-template", "intune", "intune-device-compliance-template", "ios", "mdm", "modern-management", "policy"]
 ---
 
 One of the challenges I have found with using Intune for Device Compliance is being able to easily document changes to satisfy internal change control policies.

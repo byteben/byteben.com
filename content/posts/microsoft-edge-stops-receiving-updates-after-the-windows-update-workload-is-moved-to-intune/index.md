@@ -6,6 +6,7 @@ categories:
   - "Intune"
   - "Microsoft"
   - "Windows 10"
+tags: ["co-management", "configmgr", "edge", "endpoint-analytics", "intune", "memcm", "msedge", "msintune", "proactive-remediations", "updates", "windows-updates"]
 ---
 
 Many organisation are moving workloads to Intune from Configuration manger using Co-management. One of the more popular workloads to move is Windows Updates. After you move this workload to Intune, you may observe that your clients stop receiving updates for Microsoft Edge.

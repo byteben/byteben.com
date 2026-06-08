@@ -6,6 +6,7 @@ categories:
   - "Intune"
   - "Microsoft"
   - "Windows 10"
+tags: ["aad", "co-management", "configmgr", "intune"]
 ---
 
 In this part of the series we will look at the prerequisites to get our clients into a Co-managed state.

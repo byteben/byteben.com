@@ -4,6 +4,7 @@ date: 2012-09-30
 categories:
   - "Mitel"
   - "Mitel 3300"
+tags: ["ipvm_start", "ipvm_stop", "mitel", "mitel-3300", "mitel-voicemail-port", "putty"]
 ---
 
 Ok, so this happens fairly infrequently but the following command is useful for when it does - it saves having to reboot the controller. You either get one or more voicemail ports lock up and this manifests itself normally when your users stat to complain that they cant dial into voicemail. If your voicemail group is set as a Terminal group and it is the first port that is locked/crashed it is easy to identify when there is a problem - because your helpdesk gets pummeled by frustrated users.

@@ -4,6 +4,7 @@ date: 2018-05-11
 categories:
   - "ConfigMgr / MEMCM / SCCM"
   - "Microsoft"
+tags: ["rdl", "reports", "sccm", "sql", "wsus"]
 ---
 
 **POST UPDATED HERE**

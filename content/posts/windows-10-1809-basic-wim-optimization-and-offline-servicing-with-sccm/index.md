@@ -4,6 +4,7 @@ date: 2018-12-11
 categories:
   - "ConfigMgr / MEMCM / SCCM"
   - "Microsoft"
+tags: ["language-packs", "lcu", "offlineservicing", "ssu", "wim", "windows-10"]
 ---
 
 My good friend Leon over at [http://leonashtonleatherland.blogspot.com/](http://leonashtonleatherland.blogspot.com/) posed a topic over chat re: Offline Servicing a WIM with SCCM. Not having looked at this before, I thought I would take the time to consider it for the new Windows 10 1809 WIM used in our OSD Task Sequences. 

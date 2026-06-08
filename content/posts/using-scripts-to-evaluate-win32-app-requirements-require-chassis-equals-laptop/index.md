@@ -6,6 +6,7 @@ categories:
   - "Microsoft"
   - "Scripts"
   - "Windows 10"
+tags: ["app-requirements", "compliance", "ime", "intune-management-extension", "msintune", "powershell", "scripts-2", "win32apps"]
 ---
 
 In this short post we will be looking at app requirements in the context of installing Win32 apps.

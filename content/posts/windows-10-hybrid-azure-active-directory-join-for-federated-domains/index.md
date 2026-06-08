@@ -6,6 +6,7 @@ categories:
   - "ConfigMgr / MEMCM / SCCM"
   - "Identity"
   - "Microsoft"
+tags: ["adfs", "azure-ad-hybrid-join", "claims", "federation", "scp", "windows-10"]
 ---
 
 ### What is ADFS?

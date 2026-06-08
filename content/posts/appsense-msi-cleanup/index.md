@@ -6,6 +6,7 @@ categories:
   - "AppSense - Environment Manager - Scripts"
   - "AppSense Environment Manager"
   - "AppSense Environment Manager Configurations"
+tags: ["appsense", "appsense-environmentmanager", "appsense-environmentmanager-configurations", "appsense-environmentmanager-scripts-2", "appsense-msi-cleanup", "old-appsense-msis"]
 ---
 
 Ok, so I have a little obsessive compulsion when it comes to cleaning up old config files that are no longer needed. I notice the msi files build up a fair amount in the "%ProgramFiles%\\AppSense\\Management Center\\Communications Agent\\download" directory. I wanted to delete any files that are older than 30 days ( I figured I would never have to roll back any further than 30 days..gamble I know.)

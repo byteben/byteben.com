@@ -7,6 +7,7 @@ categories:
   - "AppSense Environment Manager"
   - "AppSense Environment Manager Configurations"
   - "Scripts"
+tags: ["appsense", "appsense-environmentmanager", "appsense-environmentmanager-configurations", "appsense-environmentmanager-scripts-2", "scripts-2", "user-favorites", "vb-script", "vb-script-favorites"]
 ---
 
 Well this is certainly something we wanted to do in our environment. Based on different group memberships and user requirements for different web apps we wanted to post links into the users favorites folders in Internet Explorer. Historically, users managed their own app shortcuts in the Favorites folder but this led to inconsistencies especially when a url was updated server side. We decided to publish a folder called "!Corporate" in the users favorites folder. This folder (if sorted alphabetically) would appear at the top of the users favorites and we would leverage the ability to run vb script from an Environment Manager trigger. We could then add/delete/modify urls and keep a consistent-corporate approach to managing these items. <!--more-->Below is how we achieved this:-

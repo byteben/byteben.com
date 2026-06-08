@@ -6,6 +6,7 @@ categories:
   - "Intune"
   - "Microsoft"
   - "Windows 10"
+tags: ["automatic-updates", "configuration-baseline", "configuration-policy", "csp", "gpo", "intune", "memcm", "remediation", "update-rings"]
 ---
 
 ### Background

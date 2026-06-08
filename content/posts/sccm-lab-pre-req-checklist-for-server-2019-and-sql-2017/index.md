@@ -4,6 +4,7 @@ date: 2019-02-10
 categories:
   - "ConfigMgr / MEMCM / SCCM"
   - "Microsoft"
+tags: ["configmgr", "server-2019", "technical-preview"]
 ---
 
 I decided to rebuild one of my LABs for SCCM 1902 Technical Preview. During the build, someone posed a question on Twitter for examples of scripts/material to get a LAB up and running. @ncbrady has a great post that goes into great detail for building out SCCM servers at:-

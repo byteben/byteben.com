@@ -5,6 +5,7 @@ categories:
   - "AppSense"
   - "AppSense Environment Manager"
   - "AppSense Environment Manager Configurations"
+tags: ["appsense", "appsense-environmentmanager", "appsense-environmentmanager-configurations", "registry-hiving", "windows-7-taskbar-icons", "xenapp-taskbar-icons"]
 ---
 
 Ok, so we want to capture users Taskbar/Start Menu and Toolbar Information on Windows 7? There are 2 ways to do this, either use the in built "Desktop Settings" option to capture the information automatically or hive the items and reg keys out manually with policy. We are going to personalize these settings using reg hive and folder copy actions. At the current time of writing this blog there is no conditional flag (AppSense feature team please can we have one) that can be set on session data or desktop settings. You either have it on or off for your personalization group and we need the conditional flexibility for our environment.

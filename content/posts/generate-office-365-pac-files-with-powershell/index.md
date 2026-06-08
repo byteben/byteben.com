@@ -5,6 +5,7 @@ categories:
   - "Microsoft"
   - "Office 365"
   - "Scripts"
+tags: ["office-365", "pac", "powershell", "proxies", "proxy-server"]
 ---
 
 If you have a proxy server in your environment and are using (or thinking about using) Office 365 then you will hit some pain barriers. As awesome as Office 365 is, she just isn't a fan of proxies.

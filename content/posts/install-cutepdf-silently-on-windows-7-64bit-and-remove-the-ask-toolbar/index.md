@@ -5,6 +5,7 @@ categories:
   - "Landesk"
   - "Landesk Managment Suite"
   - "Scripts"
+tags: ["ask-toolbar", "cutepdf", "cutepdf-silent", "landesk", "landesk-managmentsuite", "windows-7-64bit-cutepdf"]
 ---
 
 Well, there I was trying to figure out how to create a silent install script for CutePDF on our Windows 7 64bit PCs. After losing a few hairs trying to work out why it wasn't working silently it was because setup was looking for a 32bit installation of ghostscript. Answer?

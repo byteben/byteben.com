@@ -4,6 +4,7 @@ date: 2015-09-16
 categories:
   - "Mitel"
   - "Mitel 3300"
+tags: ["mitel-3300", "mitel-3300-reset", "mitel-3300-scheduled-reboot"]
 ---
 
 So you need to reboot your Mitel controller but don't fancy hanging around until 2am to do it (despite the overtime). Your friend is the "Programmed Reboot" maintenance command.

@@ -1,6 +1,7 @@
 ---
 title: "How to install Printer Drivers and Printers from Intune using Win32 apps and PowerShell"
 date: 2022-01-03
+tags: ["msintune", "pnputil-exe", "print-drivers", "printers", "win32app"]
 ---
 
 In this post I will show you how to easily install network printers with Intune using win32 apps and PowerShell.

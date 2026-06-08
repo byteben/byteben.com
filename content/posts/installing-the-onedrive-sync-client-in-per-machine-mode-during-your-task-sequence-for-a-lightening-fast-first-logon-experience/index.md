@@ -7,6 +7,7 @@ categories:
   - "OneDrive"
   - "Scripts"
   - "Windows 10"
+tags: ["onedrive", "silent-login", "sync-client", "task-sequence"]
 ---
 
 ### Background

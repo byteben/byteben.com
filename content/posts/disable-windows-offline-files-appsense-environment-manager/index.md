@@ -6,6 +6,7 @@ categories:
   - "AppSense Environment Manager"
   - "AppSense Environment Manager Configurations"
   - "Microsoft"
+tags: ["appsense", "appsense-environmentmanager", "appsense-environmentmanager-configurations", "client-side-caching", "csc", "microsoft", "microsoft-offline-files"]
 ---
 
 Disable Windows Offline Files with AppSense Environment Manager? Easy Hey? Well, in a nutshell, yes. We had a bit of bother trying to work out why this wouldn't work just by setting the GPO. We had to do some jazzy things with the Offline Files Service or CSC (Client Side Caching). Let me show you how it works in our environment.

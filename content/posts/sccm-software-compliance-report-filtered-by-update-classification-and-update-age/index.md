@@ -4,6 +4,7 @@ date: 2018-12-15
 categories:
   - "ConfigMgr / MEMCM / SCCM"
   - "Microsoft"
+tags: ["sccm", "sql-query", "ssrs", "update-classification", "updates"]
 ---
 
 This SSRS Report has been sitting in the side lines for a while now. After spending a bit more time on it over the weekend I feel it is now at a point where it is serving me rather than the other way around.

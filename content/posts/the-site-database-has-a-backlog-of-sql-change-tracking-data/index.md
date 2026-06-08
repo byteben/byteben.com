@@ -5,6 +5,7 @@ categories:
   - "ConfigMgr / MEMCM / SCCM"
   - "Microsoft"
   - "Scripts"
+tags: ["backlog", "change-tracking", "configmgr", "current-branch", "prerequisite", "sccm", "site-database", "sql"]
 ---
 
 <figure>

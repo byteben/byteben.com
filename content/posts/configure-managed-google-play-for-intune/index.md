@@ -4,6 +4,7 @@ date: 2019-03-23
 categories:
   - "Intune"
   - "Microsoft"
+tags: ["android-enrollment", "android-enterprise", "intune", "managed-google-play", "msintune", "work-profile"]
 ---
 
 Before you can start using Android Enterprise Work Profiles, or enroll your Android Devices into Intune, you have to link Managed Googled Play.  

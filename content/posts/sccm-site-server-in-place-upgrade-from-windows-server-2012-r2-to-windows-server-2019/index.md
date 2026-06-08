@@ -4,6 +4,7 @@ date: 2019-07-07
 categories:
   - "ConfigMgr / MEMCM / SCCM"
   - "Microsoft"
+tags: ["configmgr", "in-place-upgrade", "ipu", "primary-site-server", "sccm", "server-2012-r2", "server-2019", "site-reset"]
 ---
 
 I am rationalizing and updating my lab on a grey, Saturday afternoon and decided to blog the update process for getting my Server 2012 R2 Primary Site Server up to Server 2019. 

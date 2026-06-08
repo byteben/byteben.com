@@ -5,6 +5,7 @@ categories:
   - "AppSense"
   - "AppSense Environment Manager"
   - "AppSense Environment Manager Configurations"
+tags: ["csidl_common_appdataadobearm", "acrord32-exe", "adobe-reader", "appsense", "appsense-environmentmanager", "appsense-environmentmanager-configurations"]
 ---
 
 Adobe Reader can be personalized using AppSense Environment Manager. Here are some simple steps to create a new User Application for Adobe Reader in the Environment Manager Console and a tip to keep your SQL admins happy. By default acrord32.exe is in the default blacklist for monitored applications (thanks Bryan @techbury for prompting me)

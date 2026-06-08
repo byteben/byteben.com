@@ -8,6 +8,7 @@ categories:
   - "Microsoft"
   - "Office 365"
   - "Scripts"
+tags: ["azure-ad", "dynamic-group", "group", "office-365-group", "powershell"]
 ---
 
 Not the longest post in the world but "Groups" are going to be quite pivotal in how you manage users and devices in Azure AD. In this post we will cover the basic Azure AD group and membership types. We will also look at how we can create Groups in both the Azure AD Portal and by using PowerShell.

@@ -3,6 +3,7 @@ title: "Windows 8 - Here we come"
 date: 2012-10-28
 categories:
   - "Microsoft"
+tags: ["microsoft", "windows-8"]
 ---
 
 Ok, so normally I research things to the point of infinite boredom but today I took an unexpectedly different approach to Windows 8. I thought, come on, lets just do it.

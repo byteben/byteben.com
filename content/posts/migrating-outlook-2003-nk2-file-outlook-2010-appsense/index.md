@@ -5,6 +5,7 @@ categories:
   - "AppSense"
   - "AppSense Environment Manager"
   - "AppSense Environment Manager Configurations"
+tags: ["appsense", "appsense-environmentmanager", "appsense-environmentmanager-configurations", "nk2-file-import", "outlook-2010", "outlook-2010-nk2"]
 ---
 
 AppSense Environment Manager can help you migrate an XP User to Windows 7 very easily and seemlessly. For various reasons, partly due to how our desktop estate was configured horribly historically,  we decided to export our Windows XP users "Vital" settings using a simple script. We have to visit each user anyway to give them new hardware and because we are very customer centric we give them about half an hour overview on their new Windows 7 PC...because we care :)
