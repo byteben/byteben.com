@@ -226,7 +226,7 @@ I have enjoyed this little dirge with Collections. I am looking at creating a re
   
 **UPDATE: 18/12/18** Oh Look here it is!   
   
-**[All Collections (Evaluation Schedules).rdl](<https://byteben.com/bb/Downloads/All Collections \(Evaluation Schedules\).rdl>)** (Don't forget to Update your DataSource)
+**[All Collections (Evaluation Schedules).rdl](</downloads/All Collections \(Evaluation Schedules\).rdl>)** (Don't forget to Update your DataSource)
 
 ```
 SELECT SiteID       ,LimitToCollectionID       ,CollectionName       ,CollectionComment 	  ,Flags       ,CollectionType,  Case When Flags = 1 Then 'None'  When Flags = 2 Then 'Periodic'  When Flags = 4 Then 'Continuous'  When Flags = 6 Then 'Both' End As 'Evaluation',  Case When CollectionType = 1 Then 'User'  When CollectionType = 2 Then 'Device'  End As 'CollectionType_1'  FROM dbo.v_Collections_G  Where Flags = 4 or Flags = 6 or Flags = 2 or Flags =1  Order By Flags Desc

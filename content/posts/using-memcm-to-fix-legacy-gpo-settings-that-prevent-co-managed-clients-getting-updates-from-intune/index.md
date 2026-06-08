@@ -119,8 +119,8 @@ More information on creating WMI Filters for GPO's can be found here [https://do
 
 The baselines can be downloaded here:-
 
-[https://byteben.com/bb/Downloads/Enable%20Automatic%20Updates.cab](https://byteben.com/bb/Downloads/Enable%20Automatic%20Updates.cab)  
-[https://byteben.com/bb/Downloads/Disable%20Automatic%20Updates.cab](https://byteben.com/bb/Downloads/Disable%20Automatic%20Updates.cab)
+[/downloads/Enable%20Automatic%20Updates.cab](/downloads/Enable%20Automatic%20Updates.cab)  
+[/downloads/Disable%20Automatic%20Updates.cab](/downloads/Disable%20Automatic%20Updates.cab)
 
 **Enable Automatic Updates CI/CB**
 

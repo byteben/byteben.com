@@ -17,7 +17,7 @@ he settings were accurate at the time of writing this post
 
 (Screenshot) ![](http://byteben.com/bb/images/2018/07/Intune-IOS-Device-Compliance-Policies-1-1024x408.jpg)
 
-[Intune IOS Device Compliance Policies.xlsx](<https://byteben.com/bb/Downloads/Intune IOS Device Compliance Policies.xlsx>)
+[Intune IOS Device Compliance Policies.xlsx](</downloads/Intune IOS Device Compliance Policies.xlsx>)
 
 Also see my other post on Device Configuration Templates
 

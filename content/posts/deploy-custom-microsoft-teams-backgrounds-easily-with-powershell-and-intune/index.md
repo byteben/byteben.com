@@ -81,7 +81,7 @@ Filename:     	Custom_Teams_Background.ps1
 Script to download an image file from a URL and place in a users Microsoft Teams Backgrounds\Uploads folder
 
 .EXAMPLE
-Custom_Teams_Background.ps1 -Install -BackgroundName "Teams_Back_1.jpg" -BackgroundUrl "https://byteben.com/bb/Downloads/Teams_Backgrounds/"
+Custom_Teams_Background.ps1 -Install -BackgroundName "Teams_Back_1.jpg" -BackgroundUrl "/downloads/Teams_Backgrounds/"
 
 .EXAMPLE
 Custom_Teams_Background.ps1 -Uninstall -BackgroundName "Teams_Back_1.jpg"
@@ -96,7 +96,7 @@ Switch parameter which must be used with the parameter BackgroundName but not Ba
 Specify the image file name located at your URL e.g. "Teams_Back_1.jpg"
 
 .PARAMETER BackgroundUrl
-Specify the BackgroundURL where your image file is located. URL should end with a forward slash. e.g. "https://byteben.com/bb/Downloads/Teams_Backgrounds/"
+Specify the BackgroundURL where your image file is located. URL should end with a forward slash. e.g. "/downloads/Teams_Backgrounds/"
 
 #>
 
@@ -259,7 +259,7 @@ Your directory should now look like this
 ![](/images/2020/07/image-28.png)
 
 Install Command:  
-**Powershell.exe -windowstyle hidden -file "Custom\_Teams\_Background.ps1" -Install -BackgroundName "Teams\_Back\_1.jpg" -BackgroundUrl "https://byteben.com/bb/Downloads/Teams\_Backgrounds/"**  
+**Powershell.exe -windowstyle hidden -file "Custom\_Teams\_Background.ps1" -Install -BackgroundName "Teams\_Back\_1.jpg" -BackgroundUrl "/downloads/Teams\_Backgrounds/"**  
 Uninstall Command:  
 **Powershell.exe -windowstyle hidden -file "Custom\_Teams\_Background.ps1" -Uninstall -BackgroundName "Teams\_Back\_1.jpg"**  
 Install behaviour: **User**  

@@ -193,7 +193,7 @@ The RDL for SSRS is below for you your convenience. Remember to update the DataS
 [![](http://byteben.com/bb/images/2018/12/Update_Classification_SSRS-1024x496.jpg)](/images/2018/12/Update_Classification_SSRS.jpg)
 
 Download Here   
-**[Compliance 12 - Patches Required for Collection\_121120\_Public.rdl](<https://byteben.com/bb/Downloads/Compliance 12 - Patches Required for Collection_121120_Public.rdl>)**
+**[Compliance 12 - Patches Required for Collection\_121120\_Public.rdl](</downloads/Compliance 12 - Patches Required for Collection_121120_Public.rdl>)**
 
 **\*UPDATE\* 12/11/2020 - RDL updated to remove invalid link to custom Drill through report.**  
 Please remember to select your own data source after uploading the RDL to your Report Server  

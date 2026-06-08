@@ -17,6 +17,6 @@ The settings were accurate at the time of writing this post.
 
 ![](http://byteben.com/bb/images/2018/08/intune_android_device_compliance-1024x628.jpg)
 
-[Intune Android Device Compliance Policies.xlsx](<https://byteben.com/bb/Downloads/Intune Android Device Compliance Policies.xlsx>)
+[Intune Android Device Compliance Policies.xlsx](</downloads/Intune Android Device Compliance Policies.xlsx>)
 
 A Compliance Template for IOS devices can be found here:- https://byteben.com/bb/intune-ios-device-compliance-template/

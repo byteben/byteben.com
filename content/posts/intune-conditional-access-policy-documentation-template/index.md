@@ -17,7 +17,7 @@ I have made available the template that I use to document the changes in the Int
 
 ![Conditional\_Access\_Policies\_Template](/images/2018/10/Conditional_Access_Policies_Template-1024x313.jpg)
 
-[Conditional\_Access\_Policies\_Template.xlsx](https://byteben.com/bb/Downloads/Conditional_Access_Policies_Template.xlsx)
+[Conditional\_Access\_Policies\_Template.xlsx](/downloads/Conditional_Access_Policies_Template.xlsx)
 
 Also see my other posts on Device Configuration and Compliance Templates
 

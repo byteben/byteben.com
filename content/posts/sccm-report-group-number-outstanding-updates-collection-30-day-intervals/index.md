@@ -32,4 +32,4 @@ There is also a column to show if the client requires a restart. Often pending r
 
 \*\*\* Big thanks to Eswar Koneti @eskonr and Adam Gross @adamgrosstx for their collective SSRS Examples and SQL Ninja Skills \*\*\*
 
-[http://byteben.com/bb/Downloads/Patches\_Required.zip](http://byteben.com/bb/Downloads/Patches_Required.zip)
+[/downloads/Patches\_Required.zip](/downloads/Patches_Required.zip)
