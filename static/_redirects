@@ -2,5 +2,4 @@
 /bb/category/* /categories/:splat 301
 /bb/author/* / 301
 /bb/page/* / 301
-/bb/* /posts/:splat 301
 /bb / 301
