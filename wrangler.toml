@@ -1,5 +1,7 @@
 name = "byteben-com"
 compatibility_date = "2026-06-08"
+main = "worker.js"
 
 [assets]
 directory = "./public"
+binding = "ASSETS"
