@@ -1,8 +1,5 @@
 name = "byteben-com"
 compatibility_date = "2026-06-08"
 
-[build]
-command = "hugo --gc --minify && printf '/ /bb/ 301\n' > ./public/_redirects"
-
 [assets]
 directory = "./public"
