@@ -1,6 +1,7 @@
 ---
 title: "Block the Office File Transfer Endpoints to help prevent data leakage on Managed Devices"
 date: 2022-08-08
+categories: ["uncategorized"]
 ---
 
 In this post we will look at the Office File Transfer feature and implement a simple solution to prevent "one way" that users can leak corporate data.

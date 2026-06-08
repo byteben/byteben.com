@@ -7,6 +7,7 @@ categories:
   - "Office 365"
   - "Scripts"
 tags: ["exchange-address-book-policy", "mail-onmicrosoft-com", "o365", "powershell", "tenant"]
+categories: ["microsoft", "microsoft-exchange", "office365", "scripts"]
 ---
 
 So you are on-boarding user mailboxes to Exchange Online and your user does not have a <domain>.mail.onmicrosoft.com smtp address. STOP. Your mailbox migration will fail without it. (Maybe you know this and this is why you are here :) )

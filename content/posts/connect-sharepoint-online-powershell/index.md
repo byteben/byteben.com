@@ -5,6 +5,7 @@ categories:
   - "Microsoft"
   - "Office 365"
 tags: ["connect-sposervice", "powershell", "sharepoint-online", "spo"]
+categories: ["microsoft", "office365"]
 ---
 
 So you want to do some PowerShell stuff in SharePoint Online. You will need the "SharePoint Online Global Administrator" permission to perform the connection. Before we do that, lets check if we have the SharePoint Online Management Shell already installed.

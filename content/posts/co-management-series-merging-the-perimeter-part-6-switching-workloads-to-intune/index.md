@@ -7,6 +7,7 @@ categories:
   - "Microsoft"
   - "Windows 10"
 tags: ["clientapps", "co-management", "comgmt", "msintune", "sccm", "workloads"]
+categories: ["configmgr-memcm-sccm", "intune", "microsoft", "windows-10"]
 ---
 
 In this part of the series we will look at moving some of the workloads from SCCM to Intune. We will focus on the "Compliance Policies" and "Client Apps" workloads.

@@ -6,6 +6,7 @@ categories:
   - "ConfigMgr / MEMCM / SCCM"
   - "Microsoft"
 tags: ["certificates", "configmgr", "expired-certificate", "reports-missing"]
+categories: ["certificates", "configmgr-memcm-sccm", "microsoft", "uncategorized"]
 ---
 
 You may have seen **No Items Found** when looking at the **Monitoring > Reporting > Reports** node in the Configuration Manager console

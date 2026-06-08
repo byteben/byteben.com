@@ -2,6 +2,7 @@
 title: "Microsoft Endpoint Blog Posts - A New Home"
 date: 2026-06-08
 weight: 1
+categories: ["uncategorized"]
 ---
 
 Back in March 2021 I was invited to contribute over at [https://MSEndpointMgr.com](https://MSEndpointMgr.com)

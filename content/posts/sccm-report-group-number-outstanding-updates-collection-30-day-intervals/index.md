@@ -5,6 +5,7 @@ categories:
   - "ConfigMgr / MEMCM / SCCM"
   - "Microsoft"
 tags: ["rdl", "reports", "sccm", "sql", "wsus"]
+categories: ["configmgr-memcm-sccm", "microsoft"]
 ---
 
 **POST UPDATED HERE**

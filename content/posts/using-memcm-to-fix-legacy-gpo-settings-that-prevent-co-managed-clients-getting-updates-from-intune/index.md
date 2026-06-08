@@ -7,6 +7,7 @@ categories:
   - "Microsoft"
   - "Windows 10"
 tags: ["automatic-updates", "configuration-baseline", "configuration-policy", "csp", "gpo", "intune", "memcm", "remediation", "update-rings"]
+categories: ["configmgr-memcm-sccm", "intune", "microsoft", "windows-10"]
 ---
 
 ### Background

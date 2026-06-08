@@ -8,6 +8,7 @@ categories:
   - "Scripts"
   - "Windows 10"
 tags: ["file-server", "memcm", "migration", "powershell", "robocopy", "sccm"]
+categories: ["configmgr-memcm-sccm", "microsoft", "onedrive", "scripts", "windows-10"]
 ---
 
 This script wont necessarily fit your environment, it may do with tweaking, but my hope is that it will give you an idea of how you can approach different challenges using the different tools in you arsenal.

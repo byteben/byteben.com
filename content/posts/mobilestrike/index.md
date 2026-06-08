@@ -1,6 +1,7 @@
 ---
 title: "Mobile Strike Account"
 date: 2016-08-08
+categories: ["uncategorized"]
 ---
 
 Thanks for stopping by. Below are all the screenshots from my account. Boosts for troops shown when commander tree is set to the right to maximise RSS production.

@@ -5,6 +5,7 @@ categories:
   - "Microsoft"
   - "Microsoft Exchange"
 tags: ["bes-permissions", "besadmin", "byod", "database-permissions", "exchange-2010", "iemstest-exe", "mailboxdatabase", "microsoft-exchange"]
+categories: ["microsoft", "microsoft-exchange"]
 ---
 
 So you created a new Exchange 2010 Mailbox Database but all mailbox users you move to or create in this database cannot send or receive mail on their Blackberry device?  Permissions, permissions, permissions...<!--more-->

@@ -6,6 +6,7 @@ categories:
   - "AppSense DesktopNow"
   - "AppSense Environment Manager"
 tags: ["amc", "appsense", "appsense-environmentmanager", "appsense-environment-manager-agent", "cca-events", "desktopnow", "event-id"]
+categories: ["appsense", "appsense-desktopnow", "appsense-environmentmanager"]
 ---
 
 AppSense DesktopNow offers the tech heads among us a wide range of Event IDs that can be generated from the endpoint CCA (Client Communications Agent). Some are classed as "High Priority Events". These are non configurable and are sent direct to the AMC (AppSense Managment Centre) database via HTTP from the endpoint when they are generated. Other, configurable, events are sent by the CCA to the AMC database during the default poll period set on the distribution group. <!--more-->These events are stored locally in an .evt format. At each poll period, set on the deployment group, the CCA will zip the .evt file and transfer it to the AMC using BITS. You will normally find the .evt file in the "_C:\\Program Files\\AppSense\\Management Center\\CCA\\Upload"_ folder. I am only going to deal with Environment Manager Event IDs here in this article.

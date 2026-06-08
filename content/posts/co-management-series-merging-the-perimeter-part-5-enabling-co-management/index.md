@@ -7,6 +7,7 @@ categories:
   - "Microsoft"
   - "Windows 10"
 tags: ["comanagementhandler-log", "intune", "mdm"]
+categories: ["configmgr-memcm-sccm", "intune", "microsoft", "windows-10"]
 ---
 
 In this part of the series we will look at enabling Co-management. We will split this part of the series into 6 sections for easy navigation.

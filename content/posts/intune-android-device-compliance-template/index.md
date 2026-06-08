@@ -2,6 +2,7 @@
 title: "Intune Android Device Compliance Template"
 date: 2018-08-07
 tags: ["compliance", "configuration", "intune", "intune-device-configuration", "ios", "mdm", "modern-management", "policy", "profile", "template"]
+categories: ["uncategorized"]
 ---
 
 One of the challenges I have found when using Intune for Device Compliance is being able to easily document changes to satisfy internal change control policies.

@@ -7,6 +7,7 @@ categories:
   - "AppSense Environment Manager"
   - "AppSense Environment Manager Configurations"
 tags: ["appsense", "appsense-environmentmanager", "appsense-environmentmanager-configurations", "computer-start-up-conditions", "conditional-triggers", "network-not-ready"]
+categories: ["appsense", "appsense-environmentmanager-scripts", "appsense-environmentmanager", "appsense-environmentmanager-configurations"]
 ---
 
 So I have quickly learned that I can satisfy a lot of my "membership" conditional triggers by referencing a registry key rather than looking up the Active Directory. This is especially useful on "Computer-Start-up" triggers. In my experience, when the computer boots, the network is not always ready by the time we kick off a conditional trigger for Computer Group Membership. If the network is not ready and we try to look-up our AD on "Computer Start-up" then that condition will fail. So how can we get around this? <!--more-->Simple! We wait until "User Logon" before we do our AD Group membership look-up and then set a HKLM registry value to be used as a reference for future location based conditional triggers. A HKLM registry key can always be referenced by our EM agents on "Computer-Startup" even if the network is not ready.

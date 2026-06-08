@@ -5,6 +5,7 @@ categories:
   - "Microsoft"
   - "Office 365"
 tags: ["connect-microsoftteams", "install-teams-module", "msteam", "posh", "powershell", "powershell-gallery", "teams"]
+categories: ["microsoft", "office365"]
 ---
 
 Quick post this afternoon on how to install the Microsoft Teams PowerShell Module. The latest version in the PowerShell Gallery at the time of writing this post is 0.9.5. More info on this module can be found at [https://www.powershellgallery.com/packages/MicrosoftTeams/0.9.5](https://www.powershellgallery.com/packages/MicrosoftTeams/0.9.5) <!--more-->

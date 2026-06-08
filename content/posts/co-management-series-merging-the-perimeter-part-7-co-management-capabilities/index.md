@@ -6,6 +6,7 @@ categories:
   - "Intune"
   - "Microsoft"
 tags: ["1906", "capabilities", "co-management", "comgmt", "current-branch", "sccm", "windows-10"]
+categories: ["configmgr-memcm-sccm", "intune", "microsoft"]
 ---
 
 In this part of the series we will look at Co-management capabilities and discuss what they are, how they work and what the numerical representation indicates.

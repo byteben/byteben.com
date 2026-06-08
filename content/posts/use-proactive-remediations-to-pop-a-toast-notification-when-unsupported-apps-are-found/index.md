@@ -1,6 +1,7 @@
 ---
 title: "Use Proactive Remediations to pop a Toast Notification when Unsupported Apps are found"
 date: 2022-08-08
+categories: ["uncategorized"]
 ---
 
 Many organsiations, against strong advice, still allow some users to install apps on their devices. Quite often this is applicable to software developers and IT admins, both being given permission to install apps to "test it works". The old argument was that IT simply could not turn around app packages in Intune of ConfigMgr to keep up with the demand from developers

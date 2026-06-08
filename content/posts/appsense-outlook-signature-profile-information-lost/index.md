@@ -6,6 +6,7 @@ categories:
   - "AppSense DesktopNow"
   - "AppSense Environment Manager"
 tags: ["appsense-environmentmanager-configurations", "hkey_local_machinesoftwarewow6432nodemicrosoftoffice14-0outlooksetup", "microsoft", "outlook", "outlook-profile", "outlook-signature-missing"]
+categories: ["appsense", "appsense-desktopnow", "appsense-environmentmanager"]
 ---
 
 When a user logs on and launches Microsoft Outlook, some profile information is lost. The most obvious side effect for us was the user losing their Outlook Signature.<!--more-->This problem can occur if there is a mismatch between the "First-Run" key in the users personalised registry and the HKLM registry of the local machine for Microsoft Office.

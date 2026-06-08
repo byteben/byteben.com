@@ -2,6 +2,7 @@
 title: "Proactive Remediations - Getting your message across with repeated Toast Notifications"
 date: 2021-06-08
 tags: ["endpointanalytics", "intune", "powershell", "proactive-remediations", "toast-notification"]
+categories: ["intune", "microsoft", "rssexclude", "scripts", "windows-10"]
 ---
 
 <figure>

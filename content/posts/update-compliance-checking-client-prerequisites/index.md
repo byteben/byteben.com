@@ -2,6 +2,7 @@
 title: "Update Compliance - Checking client prerequisites"
 date: 2022-01-03
 tags: ["compliance", "endpoint-analytics", "mempowered", "msintune", "reporting"]
+categories: ["intune", "microsoft", "scripts", "windows-10"]
 ---
 
 # Background

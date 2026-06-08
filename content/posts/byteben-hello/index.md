@@ -2,6 +2,7 @@
 title: "Byteben"
 date: 2012-09-22
 tags: ["active-directory", "appsense", "cisco", "citrix-xenapp", "landesk", "microsoft-exchange", "mitel", "san", "vmware-vsphere"]
+categories: ["byteben-personalbits"]
 ---
 
 Welcome to my blog. I have spent countless hours head scratching various problems so I have decided to share them (and the solutions) in my blog. If I can offer any help take it as a free gift but I would appreciate a link back to my site if you post it onto other blogs/forums. I'll cover topics including AppSense, Datacentre, VMware VSphere, Active Directory, Exchange, XenApp, Landesk, Cisco, SAN, Mitel VOIP and more.

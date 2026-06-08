@@ -5,6 +5,7 @@ categories:
   - "AppSense"
   - "AppSense Environment Manager"
 tags: ["appsense", "appsense-environmentmanager", "environment-manager-8-fr4-prereqs", "sql-2000"]
+categories: ["appsense", "appsense-environmentmanager"]
 ---
 
 If you haven't read the release notes consider this a heads up. If you are planning to install or upgrade your Environment Manager to Version 8 FR4 you will not be surprised that support for SQL 2000 has been removed. If you are still using SQL2000 it is recommended to upgrade your database (compatible versions below) before you attempt an EM upgrade.<!--more-->

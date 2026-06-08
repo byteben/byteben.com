@@ -8,6 +8,7 @@ categories:
   - "Office 365"
   - "Scripts"
 tags: ["cname-record", "dns-records", "get-azureaddomainserviceconfigurationrecord", "m365-tenant-dns", "mx-record", "resolve-dnsname", "verified-domain"]
+categories: ["intune", "microsoft", "microsoft-exchange", "office365", "scripts"]
 ---
 
 In this post we will be looking at how we can list actual vs expected DNS records for a Microsoft 365 tenant with PowerShell.

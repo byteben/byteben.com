@@ -6,6 +6,7 @@ categories:
   - "AppSense Environment Manager"
   - "AppSense Environment Manager Configurations"
 tags: ["appsense", "appsense-environmentmanager", "appsense-environmentmanager-configurations", "internet-explorer-trusted-sites"]
+categories: ["appsense", "appsense-environmentmanager", "appsense-environmentmanager-configurations"]
 ---
 
 Well, today it was brought to my attention that we weren't personalizing Internet Explorer Trusted Sites..woops. But as we are still rolling out AppSense I forgave myself. We added the following registry key to our Application Group "Internet\_Explorer" under the Registry Tab - Includes (see image below)

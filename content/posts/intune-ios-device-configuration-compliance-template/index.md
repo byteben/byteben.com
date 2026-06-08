@@ -7,6 +7,7 @@ categories:
   - "Microsoft"
   - "Office 365"
 tags: ["configuration", "intune", "intune-device-configuration-template", "ios", "mdm", "modern-management", "policy", "profile"]
+categories: ["azure", "intune", "microsoft", "office365"]
 ---
 
 One of the challenges I have found with using Intune for Device Configuration is being able to easily document changes to satisfy internal change control policies.

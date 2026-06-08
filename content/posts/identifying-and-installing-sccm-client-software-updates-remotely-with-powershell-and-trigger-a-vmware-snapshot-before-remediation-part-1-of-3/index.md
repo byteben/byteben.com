@@ -5,6 +5,7 @@ categories:
   - "ConfigMgr / MEMCM / SCCM"
   - "Microsoft"
 tags: ["configmgr", "powershell", "sccm", "software-updates", "vmware", "wmi"]
+categories: ["configmgr-memcm-sccm", "microsoft"]
 ---
 
 Try saying that title again without taking a breath, phew.

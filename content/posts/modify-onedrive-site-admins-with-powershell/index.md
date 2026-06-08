@@ -5,6 +5,7 @@ categories:
   - "Microsoft"
   - "Office 365"
 tags: ["get-sposite", "get-spouser", "onedrive", "set-spouser", "sharepoint-personal-site", "siteadmin", "spo"]
+categories: ["microsoft", "office365"]
 ---
 
 In our previous post [**Office 365 – Access a Users OneDrive Folder**](https://byteben.com/bb/office-365-access-users-onedrive-folder/) we looked at giving an Admin access to a users OneDrive files. In this post we will focus on adding and removing Site Admins, on a users Personal SharePoint Site (OneDrive), using PowerShell.

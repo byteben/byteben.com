@@ -7,6 +7,7 @@ categories:
   - "AppSense Environment Manager"
   - "AppSense Environment Manager Configurations"
 tags: ["appsense", "appsense-environmentmanager", "appsense-environmentmanager-configurations", "process-trigger", "taskkill"]
+categories: ["appsense", "appsense-environmentmanager-scripts", "appsense-environmentmanager", "appsense-environmentmanager-configurations"]
 ---
 
 _Warning: This post may ruffle some feathers!_ I will start out by saying that AppSense have a great product called "Application Manager". It is designed to take on User Rights Management, Application Control and Software Compliance Monitoring, more info can be found at [http://www.appsense.com/products/desktop/desktopnow/application-manager/](http://www.appsense.com/products/desktop/desktopnow/application-manager/ "AppSense Application Manager")

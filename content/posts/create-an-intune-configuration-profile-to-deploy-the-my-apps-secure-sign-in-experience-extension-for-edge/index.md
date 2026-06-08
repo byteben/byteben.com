@@ -7,6 +7,7 @@ categories:
   - "Microsoft"
   - "Windows 10"
 tags: ["extensions", "intune", "msedge", "myapps", "sso"]
+categories: ["azure", "intune", "microsoft", "windows-10"]
 ---
 
 ### What is the "My Apps Secure Sign-in Experience" Extension for Edge

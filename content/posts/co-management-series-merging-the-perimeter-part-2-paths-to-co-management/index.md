@@ -6,6 +6,7 @@ categories:
   - "Intune"
   - "Microsoft"
 tags: ["co-management", "configmgr", "paths", "sccm", "workloads"]
+categories: ["configmgr-memcm-sccm", "intune", "microsoft"]
 ---
 
 In the previous post for this series, we looked at "What is Co-management?". In this part of the series we will look at the different paths to co-management.

@@ -7,6 +7,7 @@ categories:
   - "AppSense Environment Manager"
   - "AppSense Environment Manager Configurations"
 tags: ["adobe-preview-handler-problem-64bit", "appsense", "appsense-application-group", "appsense-environmentmanager", "appsense-environmentmanager-configurations", "appsense-user-applications", "foxit-reader"]
+categories: ["appsense", "appsense-environmentmanager-scripts", "appsense-environmentmanager", "appsense-environmentmanager-configurations"]
 ---
 
 Adobe have a nice - longstanding problem with their preview handler in the 64bit version of their reader. We installed Foxit Reader into our Gold Windows 7 64bit image which replaced the already installed Adobe preview handler. This worked a treat, our customers could now preview PDF documents in Explorer and the Microsoft Outlook 2010 preview pane. We needed to personalize the Foxit App with AppSense. In this blog Ill explain how to add a new App to personalization and some specific includes and excludes for Foxit Reader.<!--more-->

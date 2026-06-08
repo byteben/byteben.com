@@ -5,6 +5,7 @@ categories:
   - "ConfigMgr / MEMCM / SCCM"
   - "Microsoft"
 tags: ["features", "package-conversion-manager", "packages", "pcm", "sccm"]
+categories: ["configmgr-memcm-sccm", "microsoft"]
 ---
 
 ### Background

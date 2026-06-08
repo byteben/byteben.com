@@ -8,6 +8,7 @@ categories:
   - "Intune"
   - "Microsoft"
 tags: ["hybrid", "sccm"]
+categories: ["azure", "configmgr-memcm-sccm", "identity", "intune", "microsoft"]
 ---
 
 In this part of the series we will look at configuring Hybrid Azure AD before we can get our clients into a Co-managed state. First we will install Azure AD Connect and then we will enable the SCCM Client Setting to facilitate the Hybrid Join.

@@ -7,6 +7,7 @@ categories:
   - "Scripts"
   - "Windows 10"
 tags: ["configmgr", "powershell", "toast", "toast-notifications", "windows-10", "xml"]
+categories: ["configmgr-memcm-sccm", "microsoft", "scripts", "windows-10"]
 ---
 
 You may have seen that many apps these days use "Toast Notifications" to inform the user of an event or to ask them to do something. If you have moved your workload to Intune for Windows Update Policies you would have encountered them for sure. UWP and Desktop Apps can leverage the **ToastNotification** and **ToastNotificationManager** Class from the [Windows.UI.Notifications](https://docs.microsoft.com/en-us/uwp/api/windows.ui.notifications?view=winrt-19041) Namespace to create **ToastNotifier** objects to send a Toast Notification similar to below

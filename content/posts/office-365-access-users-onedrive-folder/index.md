@@ -5,6 +5,7 @@ categories:
   - "Microsoft"
   - "Office 365"
 tags: ["access-files", "office-365", "onedrive", "personal-site", "sharepoint", "site-collection-owner"]
+categories: ["microsoft", "office365"]
 ---
 
 I thought I would dig a little deeper on this cool little feature in the Microsoft 365 Admin Center. Administrators are able to select a user and "Access" that users OneDrive files. Cool for a number of scenarios, so Microsoft believe to create this feature, but it does comes with a caveat. (Read post before implementing). Let's first see how, as an Administrator, we can do this.<!--more-->

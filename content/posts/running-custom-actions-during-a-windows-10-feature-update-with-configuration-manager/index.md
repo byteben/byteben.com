@@ -7,6 +7,7 @@ categories:
   - "Scripts"
   - "Windows 10"
 tags: ["feature-update", "postoobe", "setupconfig-ini", "waas"]
+categories: ["configmgr-memcm-sccm", "microsoft", "rssexclude", "scripts", "windows-10"]
 ---
 
 Deploying Windows 10 Feature Updates in your organisation can be approached in multiple ways. As we merge the perimeter with the Cloud some of us are trying to understand the best way to deliver Feature Updates to our devices. Should we deploy an in-place upgrade using a ConfigMgr task sequence? Perhaps we should push the Feature Update directly from ConfigMgr to our devices. Have we considered leveraging our CMG and using Microsoft as a source for the update binaries to save our VPNs? Maybe some of us are on a co-management journey and are looking at using WUfB. Which ever technology we are leveraging one of the questions that normally gets asked is "Can we control the update process in a way that lets us 'Run Stuff' after the Feature Update has completed".

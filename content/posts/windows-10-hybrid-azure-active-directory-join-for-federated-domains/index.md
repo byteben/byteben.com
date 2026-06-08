@@ -7,6 +7,7 @@ categories:
   - "Identity"
   - "Microsoft"
 tags: ["adfs", "azure-ad-hybrid-join", "claims", "federation", "scp", "windows-10"]
+categories: ["azure", "configmgr-memcm-sccm", "identity", "microsoft"]
 ---
 
 ### What is ADFS?

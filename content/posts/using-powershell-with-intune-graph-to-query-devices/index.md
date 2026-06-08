@@ -6,6 +6,7 @@ categories:
   - "Microsoft"
   - "Scripts"
 tags: ["ems", "github", "intune", "intune-sdk", "microsoft-graph", "powershell"]
+categories: ["intune", "microsoft", "scripts"]
 ---
 
 ### What is Microsoft Graph?

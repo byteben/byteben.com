@@ -7,6 +7,7 @@ categories:
   - "Microsoft"
   - "Windows 10"
 tags: ["co-management", "comanagementhandler-log", "gpo", "intune", "mdm", "sccm"]
+categories: ["configmgr-memcm-sccm", "intune", "microsoft", "windows-10"]
 ---
 
 I will be posting a new blog series for co-management in the coming months. This post will highlight the undesirable effect some Group Policies will have on a successful co-management Intune enrollment.

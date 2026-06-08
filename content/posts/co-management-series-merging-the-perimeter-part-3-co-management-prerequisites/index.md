@@ -7,6 +7,7 @@ categories:
   - "Microsoft"
   - "Windows 10"
 tags: ["aad", "co-management", "configmgr", "intune"]
+categories: ["configmgr-memcm-sccm", "intune", "microsoft", "windows-10"]
 ---
 
 In this part of the series we will look at the prerequisites to get our clients into a Co-managed state.

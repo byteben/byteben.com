@@ -5,6 +5,7 @@ categories:
   - "ConfigMgr / MEMCM / SCCM"
   - "Microsoft"
 tags: ["configmgr", "sccm", "servicing-stack", "ssu", "wsus"]
+categories: ["configmgr-memcm-sccm", "microsoft"]
 ---
 
 ### What are Servicing Stack Updates?

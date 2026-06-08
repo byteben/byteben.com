@@ -9,6 +9,7 @@ categories:
   - "Scripts"
   - "Windows 10"
 tags: ["c2r", "intune", "office365", "proactive-remediation"]
+categories: ["configmgr-memcm-sccm", "intune", "microsoft", "office365", "scripts", "windows-10"]
 ---
 
 The following post will highlight a scenario where Office 365 Updates stop working for clients that have the Office C2R Apps workload moved to Intune. This was a "Think and write it down blog" so my apologies for the structure (or lack of it) - I hope you can still follow my train of thought.

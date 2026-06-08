@@ -6,6 +6,7 @@ categories:
   - "Microsoft"
   - "Scripts"
 tags: ["1906", "bitwise", "capabilities", "co-management", "configmgr", "powershell"]
+categories: ["configmgr-memcm-sccm", "microsoft", "scripts"]
 ---
 
 I am putting together a Co-management deep dive series in the coming weeks (\*\***UPDATE\*\* [Here it is](<https://byteben.com/bb/co-management-series-merging-the-perimeter-part-1-what-is-co-management/ >)**). One of the things that has intrigued me is the "Capabilities" value when looking at Co-management workloads.

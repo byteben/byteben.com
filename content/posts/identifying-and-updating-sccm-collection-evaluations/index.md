@@ -6,6 +6,7 @@ categories:
   - "Microsoft"
   - "Scripts"
 tags: ["collections", "get-cmcollection", "sccm", "set-cmcollection"]
+categories: ["configmgr-memcm-sccm", "microsoft", "scripts"]
 ---
 
 I've seen this subject discussed and explained very well in other blogs. The following post is my approach and understanding on managing Collection Evaluations using a bit of PowerShell (ok so there is some SQL stuff in here too). 

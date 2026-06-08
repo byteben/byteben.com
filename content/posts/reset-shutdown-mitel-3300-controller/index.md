@@ -5,6 +5,7 @@ categories:
   - "Mitel"
   - "Mitel 3300"
 tags: ["mitel", "mitel-3300", "mitel-3300-reset", "mitel-3300-shutdown", "mitel-reset"]
+categories: ["mitel", "mitel-3300"]
 ---
 
 Fairly basic thing right? Right! Open a web browser and point it to the IP Address of your Mitel 3300. Depending on the version you are running (because this route has change a few times between the MCD versions you want to find "Maintenance Commands".

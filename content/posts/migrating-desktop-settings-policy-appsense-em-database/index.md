@@ -6,6 +6,7 @@ categories:
   - "AppSense Environment Manager"
   - "AppSense Environment Manager Configurations"
 tags: ["appsense", "appsense-environmentmanager", "appsense-environmentmanager-configurations", "appsense-environmentmanager-scripts-2", "windows-7-pinned-lists"]
+categories: ["appsense", "appsense-environmentmanager", "appsense-environmentmanager-configurations"]
 ---
 
 Ok, let the head scratching begin. Seriously, get your finger nails sharpened cause the head scratching is about to get good. Let me frame the story..

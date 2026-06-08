@@ -6,6 +6,7 @@ categories:
   - "Microsoft"
   - "Windows 10"
 tags: ["configmgr", "fonts", "memcm", "powershell", "sccm", "windows10"]
+categories: ["configmgr-memcm-sccm", "microsoft", "windows-10"]
 ---
 
 I have been releasing a lot of "Quick Tips" on Twitter recently. This post falls into that category. It isn't necessarily a deep dive but something that has been requested a few times. In this post I will show you how to deploy SYSTEM Fonts using MEMCM (ConfigMgr)

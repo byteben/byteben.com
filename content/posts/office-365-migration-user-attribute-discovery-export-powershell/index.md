@@ -8,6 +8,7 @@ categories:
   - "Office 365"
   - "Scripts"
 tags: ["hybrid", "migration", "o365", "powershell", "primarysmtp", "upn"]
+categories: ["identity", "microsoft", "microsoft-exchange", "office365", "scripts"]
 ---
 
 Identity is key. I cannot emphasise this enough as you begin to move workloads into Exchange Online, SharePoint Online and Skye for Business Online. One of the first pieces of advice you should have been given is the user UPN should match the primary SMTP address. Here is why:-

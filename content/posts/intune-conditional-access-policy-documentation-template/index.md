@@ -6,6 +6,7 @@ categories:
   - "Intune"
   - "Microsoft"
 tags: ["azure", "ca", "conditional-access", "documentation", "intune", "mdm"]
+categories: ["azure", "intune", "microsoft"]
 ---
 
 Being able to document your configuration changes in Office 365 is just as important as documenting changes in your traditional on premises systems. The Azure blade layout brings a nice fluidity to making changes but it creates a real challenge for those of us seeking to document the changes we make.

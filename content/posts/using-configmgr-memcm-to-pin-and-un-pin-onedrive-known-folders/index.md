@@ -7,6 +7,7 @@ categories:
   - "OneDrive"
   - "Windows 10"
 tags: ["attrib-exe", "kfm", "known-folder-move", "offline-files", "onedrive", "pinned", "powershell", "unpinned"]
+categories: ["configmgr-memcm-sccm", "microsoft", "onedrive", "windows-10"]
 ---
 
 First blog post of 2020 using the new #MEMCM tag! One of the things asked for recently was the ability for users to "choose" to keep OneDrive "Known Folders" available offline. This isn't necessary for a user on their Primary computer - the OneDrive files will already be local but when the user logs on to a different computer in a shared computer environment, the files will only be available on demand. We were asked to give the users the option of "Pinning" these known folders and for the admin to have the option to force it. The folders being redirected by OneDrive Known Folder Move were:-

@@ -1,6 +1,7 @@
 ---
 title: "Remove Built-in Windows 11 apps leveraging a Cloud-Sourced reference file"
 date: 2022-08-08
+categories: ["uncategorized"]
 ---
 
 In this quick post we will be removing built-in Windows 11 apps, for all users, and optionally showing you how to leverage a "Cloud-Source" as a reference file to select apps for removal.

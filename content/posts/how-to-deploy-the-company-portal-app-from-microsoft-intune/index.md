@@ -6,6 +6,7 @@ categories:
   - "Microsoft"
   - "Windows 10"
 tags: ["company-portal", "microsoft-intune", "sfb", "store-for-business"]
+categories: ["intune", "microsoft", "windows-10"]
 ---
 
 In this lab we will Deploy the Company Portal App to our user's Windows 10 devices. We will also look at the difference between "Online" and "Offline" apps in the Microsoft Store for Business and talk briefly about the new Company Portal App feature that lets you view and install ConfigMgr Apps from the Company Portal App.

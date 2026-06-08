@@ -5,6 +5,7 @@ categories:
   - "AppSense"
   - "AppSense Environment Manager"
 tags: ["amc", "appsense", "appsense-environmentmanager", "appsense-management-server", "could-not-load-type-system-servicemodel-activation-httpmodule-from-assembly-system-servicemodel", "cultureneutral", "publickeytokenb77a5c561934e089", "version3-0-0-0"]
+categories: ["appsense", "appsense-environmentmanager"]
 ---
 
 We came across this problem after installing DesktopNow in a sandbox training environment. After installing the necessary prerequisites and subsequently the DesktopNow components we tapped in the AppSense Management Server URL to verify the AMC had successfully been installed.

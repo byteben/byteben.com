@@ -5,6 +5,7 @@ categories:
   - "Mitel"
   - "Mitel 3300"
 tags: ["free-directory-number", "loc-num", "locate-number", "mitel", "mitel-3300", "mitel-commands"]
+categories: ["mitel", "mitel-3300"]
 ---
 
 Want to find what directory numbers are in use on your Mitel 3300? Consider this..being the company Mitel 3300 administrator, you get a call from the Service Desk. "Mr Bond wants 007 extension number allocated to his new BYOD watch please". Here is a quick way to tell if that directory number is already in use on your PBX.<!--more-->

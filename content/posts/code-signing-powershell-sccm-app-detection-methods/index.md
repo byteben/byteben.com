@@ -6,6 +6,7 @@ categories:
   - "Microsoft"
   - "Scripts"
 tags: ["app-detection", "ca", "code-signing", "configmgr", "pki", "powershell", "sccm", "script"]
+categories: ["configmgr-memcm-sccm", "microsoft", "scripts"]
 ---
 
 In this blog post we will look at signing the PowerShell scripts we use in the "App Detection Method" when distributing apps with ConfigMgr. The PowerShell Execution Policy can be modified in Client Settings to allow ConfigMgr to execute unsigned scripts. If your environment needs to be a bit tighter with script execution and you dont want to open up the Execution Policy, here is how you can sign the scripts using your own PKI infrastructure.

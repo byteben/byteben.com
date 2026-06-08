@@ -2,6 +2,7 @@
 title: "SSO to domain resources from Azure AD Joined Devices - The MEGA Series"
 date: 2021-08-15
 tags: ["aovpn", "hybrid-domain-join", "kerberos", "ndes", "nps", "rras", "scep", "sso"]
+categories: ["azure", "certificates", "identity", "intune", "microsoft", "rssexclude", "windows-10"]
 ---
 
 Welcome to this new blog series which will hopefully demystify SSO to domain resources from Azure AD Joined devices - and get you up and working quickly with a comprehensive guide on AOVPN configuration.

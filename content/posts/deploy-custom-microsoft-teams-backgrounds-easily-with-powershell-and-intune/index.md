@@ -9,6 +9,7 @@ categories:
   - "Scripts"
   - "Windows 10"
 tags: ["custom-background", "intune-management-extension", "invoke-webrequest", "microsoft-teams", "office-365", "powershell", "teams", "win32apps"]
+categories: ["configmgr-memcm-sccm", "intune", "microsoft", "office365", "scripts", "windows-10"]
 ---
 
 This one has been in my blog queue for a while. @stuffygibbon did a shout out on Twitter so I thought I'd bring this post forward and show you how you can deploy a PowerShell script from Intune to install a custom background for your Microsoft Teams users!

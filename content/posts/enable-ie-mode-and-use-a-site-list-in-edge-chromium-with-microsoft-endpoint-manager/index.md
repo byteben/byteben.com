@@ -7,6 +7,7 @@ categories:
   - "Microsoft"
   - "Windows 10"
 tags: ["configmgr", "edge", "edge-chromium", "ie-mode", "intune", "mem", "memcm", "site-list"]
+categories: ["configmgr-memcm-sccm", "intune", "microsoft", "windows-10"]
 ---
 
 In this two part mini series we will look at enabling IE Mode in Edge Chromium using both Microsoft Intune and Microsoft Configuration Manager. I won't be deep diving how IE Mode works in this post (although I was tempted) but I have posted links to the Microsoft Docs throughout if you want to dig deeper.

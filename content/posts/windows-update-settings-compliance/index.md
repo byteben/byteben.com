@@ -1,6 +1,7 @@
 ---
 title: "Windows Update Settings Compliance"
 date: 2022-08-08
+categories: ["uncategorized"]
 ---
 
 In this post I will show you how to use Proactive Remediations and Log Analytics, together, to ensure Windows Update Settings are Optimal and Compliant on your devices. This post comes on the back of a session both [Aria Carley](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/158630) and I presented at #MMSMOA this year - Fun times!

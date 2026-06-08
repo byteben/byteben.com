@@ -7,6 +7,7 @@ categories:
   - "Scripts"
   - "Windows 10"
 tags: ["flash-player", "intune", "kb4577586", "powershell", "uninstall", "win32app"]
+categories: ["intune", "microsoft", "scripts", "windows-10"]
 ---
 
 In our previous post [How to Uninstall Adobe Flash Player from Windows 10 with ConfigMgr (byteben.com)](https://byteben.com/bb/how-to-uninstall-adobe-flash-player-from-windows-10-with-configmgr/) we reviewed the End of Life for Adobe Flash Player and what that meant for Windows 10 devices. We also stepped through a tutorial showing you how to deploy the update with ConfigMgr. Please review this post first as it contains a lot more detail about the update intention than this post does.

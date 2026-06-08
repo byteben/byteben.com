@@ -5,6 +5,7 @@ categories:
   - "Microsoft"
   - "Microsoft Exchange"
 tags: ["contentindexstate", "dag", "exchange-2010", "index-catalog", "microsoft", "move-activemailboxdatabase", "powershell", "update-mailboxdatabasecopy"]
+categories: ["microsoft", "microsoft-exchange"]
 ---
 
 So we came across this when attempting a "Move-ActiveMailboxDatabase" powershell command to mount a mailbox database copy in our DAG. We have a powershell script that mounts all DBS on one exchange server so we can do maintenance on the other. <!--more-->
