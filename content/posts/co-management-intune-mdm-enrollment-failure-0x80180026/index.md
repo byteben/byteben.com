@@ -1,11 +1,6 @@
 ---
 title: "Co-management Intune MDM enrollment failure 0x80180026"
 date: 2019-07-05
-categories:
-  - "ConfigMgr / MEMCM / SCCM"
-  - "Intune"
-  - "Microsoft"
-  - "Windows 10"
 tags: ["co-management", "comanagementhandler-log", "gpo", "intune", "mdm", "sccm"]
 categories: ["configmgr-memcm-sccm", "intune", "microsoft", "windows-10"]
 ---

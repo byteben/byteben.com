@@ -1,10 +1,6 @@
 ---
 title: "Mitel/PrairyieFyre Contact Center Client 5.8 Silent Install"
 date: 2012-09-29
-categories:
-  - "Mitel"
-  - "Mitel Contact Centre (PFyre)"
-  - "Scripts"
 tags: ["mitel", "mitel-contactcentre-prairiefyre", "scripts-2"]
 categories: ["mitel", "mitel-contactcentre-pfyre", "scripts"]
 ---

@@ -1,12 +1,6 @@
 ---
 title: "Adding Corporate Favorite Items to a Users Profile using AppSense Environment Manager"
 date: 2013-02-25
-categories:
-  - "AppSense"
-  - "AppSense - Environment Manager - Scripts"
-  - "AppSense Environment Manager"
-  - "AppSense Environment Manager Configurations"
-  - "Scripts"
 tags: ["appsense", "appsense-environmentmanager", "appsense-environmentmanager-configurations", "appsense-environmentmanager-scripts-2", "scripts-2", "user-favorites", "vb-script", "vb-script-favorites"]
 categories: ["appsense", "appsense-environmentmanager-scripts", "appsense-environmentmanager", "appsense-environmentmanager-configurations", "scripts"]
 ---

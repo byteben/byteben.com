@@ -1,9 +1,6 @@
 ---
 title: "Modify OneDrive Site Admins with PowerShell"
 date: 2018-10-16
-categories:
-  - "Microsoft"
-  - "Office 365"
 tags: ["get-sposite", "get-spouser", "onedrive", "set-spouser", "sharepoint-personal-site", "siteadmin", "spo"]
 categories: ["microsoft", "office365"]
 ---

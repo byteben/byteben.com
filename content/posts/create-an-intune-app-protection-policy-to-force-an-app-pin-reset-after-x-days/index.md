@@ -1,9 +1,6 @@
 ---
 title: "Create an Intune App  Protection Policy to force an app \"Pin Reset\" after x days"
 date: 2019-01-11
-categories:
-  - "Intune"
-  - "Microsoft"
 tags: ["app-protection-policy", "ems", "intune", "pin", "policy"]
 categories: ["intune", "microsoft"]
 ---

@@ -1,9 +1,6 @@
 ---
 title: "Mitel 3300 Voicemail Port Crashed"
 date: 2012-09-30
-categories:
-  - "Mitel"
-  - "Mitel 3300"
 tags: ["ipvm_start", "ipvm_stop", "mitel", "mitel-3300", "mitel-voicemail-port", "putty"]
 categories: ["mitel", "mitel-3300"]
 ---

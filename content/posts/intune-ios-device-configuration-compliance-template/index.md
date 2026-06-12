@@ -1,11 +1,6 @@
 ---
 title: "Intune IOS Device Configuration Compliance Template"
 date: 2018-07-06
-categories:
-  - "Azure"
-  - "Intune"
-  - "Microsoft"
-  - "Office 365"
 tags: ["configuration", "intune", "intune-device-configuration-template", "ios", "mdm", "modern-management", "policy", "profile"]
 categories: ["azure", "intune", "microsoft", "office365"]
 ---

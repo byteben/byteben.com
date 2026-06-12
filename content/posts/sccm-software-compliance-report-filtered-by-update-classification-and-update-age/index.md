@@ -1,9 +1,6 @@
 ---
 title: "SCCM Software Compliance Report Filtered by Update Classification and Update Age"
 date: 2018-12-15
-categories:
-  - "ConfigMgr / MEMCM / SCCM"
-  - "Microsoft"
 tags: ["sccm", "sql-query", "ssrs", "update-classification", "updates"]
 categories: ["configmgr-memcm-sccm", "microsoft"]
 ---

@@ -1,10 +1,6 @@
 ---
 title: "Using PowerShell with Microsoft Graph to query Intune Devices"
 date: 2019-01-08
-categories:
-  - "Intune"
-  - "Microsoft"
-  - "Scripts"
 tags: ["ems", "github", "intune", "intune-sdk", "microsoft-graph", "powershell"]
 categories: ["intune", "microsoft", "scripts"]
 ---

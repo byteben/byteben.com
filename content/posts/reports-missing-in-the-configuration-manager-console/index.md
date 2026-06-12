@@ -1,10 +1,6 @@
 ---
 title: "Reports missing in the Configuration Manager Console"
 date: 2020-10-31
-categories:
-  - "Certificates"
-  - "ConfigMgr / MEMCM / SCCM"
-  - "Microsoft"
 tags: ["certificates", "configmgr", "expired-certificate", "reports-missing"]
 categories: ["certificates", "configmgr-memcm-sccm", "microsoft", "uncategorized"]
 ---

@@ -1,9 +1,6 @@
 ---
 title: "How to schedule a reboot on a Mitel 3300 Controller"
 date: 2015-09-16
-categories:
-  - "Mitel"
-  - "Mitel 3300"
 tags: ["mitel-3300", "mitel-3300-reset", "mitel-3300-scheduled-reboot"]
 categories: ["mitel", "mitel-3300"]
 ---

@@ -1,11 +1,6 @@
 ---
 title: "Microsoft Edge stops receiving updates after the Windows Update workload is moved to Intune"
 date: 2020-08-26
-categories:
-  - "ConfigMgr / MEMCM / SCCM"
-  - "Intune"
-  - "Microsoft"
-  - "Windows 10"
 tags: ["co-management", "configmgr", "edge", "endpoint-analytics", "intune", "memcm", "msedge", "msintune", "proactive-remediations", "updates", "windows-updates"]
 categories: ["configmgr-memcm-sccm", "intune", "microsoft", "windows-10"]
 ---

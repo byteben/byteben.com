@@ -1,11 +1,6 @@
 ---
 title: "Deploy Service Announcement Toast Notifications in Windows 10 with MEMCM"
 date: 2020-07-27
-categories:
-  - "ConfigMgr / MEMCM / SCCM"
-  - "Microsoft"
-  - "Scripts"
-  - "Windows 10"
 tags: ["configmgr", "powershell", "toast", "toast-notifications", "windows-10", "xml"]
 categories: ["configmgr-memcm-sccm", "microsoft", "scripts", "windows-10"]
 ---

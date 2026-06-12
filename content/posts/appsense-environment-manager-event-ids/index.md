@@ -1,10 +1,6 @@
 ---
 title: "AppSense Environment Manager Event IDs"
 date: 2013-06-23
-categories:
-  - "AppSense"
-  - "AppSense DesktopNow"
-  - "AppSense Environment Manager"
 tags: ["amc", "appsense", "appsense-environmentmanager", "appsense-environment-manager-agent", "cca-events", "desktopnow", "event-id"]
 categories: ["appsense", "appsense-desktopnow", "appsense-environmentmanager"]
 ---

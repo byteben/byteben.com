@@ -1,11 +1,6 @@
 ---
 title: "Leveraging OU Membership Conditions with the Registry in AppSense Environment Manager"
 date: 2013-03-04
-categories:
-  - "AppSense"
-  - "AppSense - Environment Manager - Scripts"
-  - "AppSense Environment Manager"
-  - "AppSense Environment Manager Configurations"
 tags: ["appsense", "appsense-environmentmanager", "appsense-environmentmanager-configurations", "computer-start-up-conditions", "conditional-triggers", "network-not-ready"]
 categories: ["appsense", "appsense-environmentmanager-scripts", "appsense-environmentmanager", "appsense-environmentmanager-configurations"]
 ---

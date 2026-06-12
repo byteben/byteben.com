@@ -1,9 +1,6 @@
 ---
 title: "Windows 10 - Servicing Stack Cadence"
 date: 2019-04-05
-categories:
-  - "ConfigMgr / MEMCM / SCCM"
-  - "Microsoft"
 tags: ["configmgr", "sccm", "servicing-stack", "ssu", "wsus"]
 categories: ["configmgr-memcm-sccm", "microsoft"]
 ---

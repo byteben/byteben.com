@@ -1,12 +1,6 @@
 ---
 title: "Update a Client Certificate Private Key using Intune Proactive Remediations"
 date: 2021-01-15
-categories:
-  - "Certificates"
-  - "Intune"
-  - "Microsoft"
-  - "Scripts"
-  - "Windows 10"
 tags: ["acl", "certificates", "intune", "mempowered", "msintune", "powershell", "private-key", "proactive-remediations"]
 categories: ["certificates", "intune", "microsoft", "scripts", "windows-10"]
 ---

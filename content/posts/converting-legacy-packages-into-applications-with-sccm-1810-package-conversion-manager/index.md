@@ -1,9 +1,6 @@
 ---
 title: "Converting legacy packages into applications with SCCM 1810 Package Conversion Manager"
 date: 2019-01-30
-categories:
-  - "ConfigMgr / MEMCM / SCCM"
-  - "Microsoft"
 tags: ["features", "package-conversion-manager", "packages", "pcm", "sccm"]
 categories: ["configmgr-memcm-sccm", "microsoft"]
 ---

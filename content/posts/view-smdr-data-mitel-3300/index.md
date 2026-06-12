@@ -1,9 +1,6 @@
 ---
 title: "How to view SMDR data on a Mitel 3300 Controller"
 date: 2013-05-26
-categories:
-  - "Mitel"
-  - "Mitel 3300"
 tags: ["mitel", "mitel-3300", "mitel-smdr", "smdr-cos"]
 categories: ["mitel", "mitel-3300"]
 ---

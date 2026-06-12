@@ -1,11 +1,6 @@
 ---
 title: "Automatically Migrate Applications from ConfigMgr to Intune with the Win32App Migration Tool"
 date: 2021-03-27
-categories:
-  - "ConfigMgr / MEMCM / SCCM"
-  - "Intune"
-  - "Microsoft"
-  - "Scripts"
 tags: ["configmgr", "intune", "intunewin", "mem", "powershell", "win32-content-prep-tool", "win32apps"]
 categories: ["configmgr-memcm-sccm", "intune", "microsoft", "scripts"]
 ---

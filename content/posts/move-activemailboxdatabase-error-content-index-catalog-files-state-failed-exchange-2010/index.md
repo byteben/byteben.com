@@ -1,9 +1,6 @@
 ---
 title: "Move-ActiveMailboxDatabase Error: Content index catalog files in the following state: 'Failed' Exchange 2010"
 date: 2014-01-26
-categories:
-  - "Microsoft"
-  - "Microsoft Exchange"
 tags: ["contentindexstate", "dag", "exchange-2010", "index-catalog", "microsoft", "move-activemailboxdatabase", "powershell", "update-mailboxdatabasecopy"]
 categories: ["microsoft", "microsoft-exchange"]
 ---

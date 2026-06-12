@@ -1,10 +1,6 @@
 ---
 title: "Co-management Series “Merging the Perimeter” – Part 7: Co-management Capabilities"
 date: 2019-09-16
-categories:
-  - "ConfigMgr / MEMCM / SCCM"
-  - "Intune"
-  - "Microsoft"
 tags: ["1906", "capabilities", "co-management", "comgmt", "current-branch", "sccm", "windows-10"]
 categories: ["configmgr-memcm-sccm", "intune", "microsoft"]
 ---

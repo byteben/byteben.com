@@ -1,12 +1,6 @@
 ---
 title: "Office 365 Migration - User Attribute Discovery and Export using Powershell"
 date: 2018-07-04
-categories:
-  - "Identity"
-  - "Microsoft"
-  - "Microsoft Exchange"
-  - "Office 365"
-  - "Scripts"
 tags: ["hybrid", "migration", "o365", "powershell", "primarysmtp", "upn"]
 categories: ["identity", "microsoft", "microsoft-exchange", "office365", "scripts"]
 ---

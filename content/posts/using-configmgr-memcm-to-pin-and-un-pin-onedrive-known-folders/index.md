@@ -1,11 +1,6 @@
 ---
 title: "Using ConfigMgr #MEMCM to Pin and Un-Pin OneDrive Known Folders"
 date: 2020-01-26
-categories:
-  - "ConfigMgr / MEMCM / SCCM"
-  - "Microsoft"
-  - "OneDrive"
-  - "Windows 10"
 tags: ["attrib-exe", "kfm", "known-folder-move", "offline-files", "onedrive", "pinned", "powershell", "unpinned"]
 categories: ["configmgr-memcm-sccm", "microsoft", "onedrive", "windows-10"]
 ---

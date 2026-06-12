@@ -1,11 +1,6 @@
 ---
 title: "How to Personalize Foxit Reader with AppSense Environment Manager"
 date: 2013-02-16
-categories:
-  - "AppSense"
-  - "AppSense - Environment Manager - Scripts"
-  - "AppSense Environment Manager"
-  - "AppSense Environment Manager Configurations"
 tags: ["adobe-preview-handler-problem-64bit", "appsense", "appsense-application-group", "appsense-environmentmanager", "appsense-environmentmanager-configurations", "appsense-user-applications", "foxit-reader"]
 categories: ["appsense", "appsense-environmentmanager-scripts", "appsense-environmentmanager", "appsense-environmentmanager-configurations"]
 ---

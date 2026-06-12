@@ -1,9 +1,6 @@
 ---
 title: "SQL2000 Support for AppSense Environment Manager 8 FR4"
 date: 2013-02-26
-categories:
-  - "AppSense"
-  - "AppSense Environment Manager"
 tags: ["appsense", "appsense-environmentmanager", "environment-manager-8-fr4-prereqs", "sql-2000"]
 categories: ["appsense", "appsense-environmentmanager"]
 ---

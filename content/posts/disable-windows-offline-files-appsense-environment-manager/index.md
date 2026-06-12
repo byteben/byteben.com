@@ -1,11 +1,6 @@
 ---
 title: "Disable Windows Offline Files with AppSense Environment Manager"
 date: 2012-09-30
-categories:
-  - "AppSense"
-  - "AppSense Environment Manager"
-  - "AppSense Environment Manager Configurations"
-  - "Microsoft"
 tags: ["appsense", "appsense-environmentmanager", "appsense-environmentmanager-configurations", "client-side-caching", "csc", "microsoft", "microsoft-offline-files"]
 categories: ["appsense", "appsense-environmentmanager", "appsense-environmentmanager-configurations", "microsoft"]
 ---

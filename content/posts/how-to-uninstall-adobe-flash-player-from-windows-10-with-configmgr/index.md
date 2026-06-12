@@ -1,11 +1,6 @@
 ---
 title: "How to Uninstall Adobe Flash Player from Windows 10 with ConfigMgr"
 date: 2021-01-02
-categories:
-  - "ConfigMgr / MEMCM / SCCM"
-  - "Microsoft"
-  - "Scripts"
-  - "Windows 10"
 tags: ["adobe-flash-player", "edge", "flash-eol", "powershell-script-remove-flash", "remove-flash", "windows-10"]
 categories: ["configmgr-memcm-sccm", "microsoft", "scripts", "windows-10"]
 ---

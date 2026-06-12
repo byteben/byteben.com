@@ -1,12 +1,6 @@
 ---
 title: "Co-management Series “Merging the Perimeter” – Part 4: Configuring Hybrid Azure AD"
 date: 2019-09-02
-categories:
-  - "Azure"
-  - "ConfigMgr / MEMCM / SCCM"
-  - "Identity"
-  - "Intune"
-  - "Microsoft"
 tags: ["hybrid", "sccm"]
 categories: ["azure", "configmgr-memcm-sccm", "identity", "intune", "microsoft"]
 ---

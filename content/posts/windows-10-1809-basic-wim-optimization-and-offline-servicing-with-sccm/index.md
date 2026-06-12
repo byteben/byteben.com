@@ -1,9 +1,6 @@
 ---
 title: "Windows 10 1809 - Basic WIM Optimization and Offline Servicing with SCCM"
 date: 2018-12-11
-categories:
-  - "ConfigMgr / MEMCM / SCCM"
-  - "Microsoft"
 tags: ["language-packs", "lcu", "offlineservicing", "ssu", "wim", "windows-10"]
 categories: ["configmgr-memcm-sccm", "microsoft"]
 ---

@@ -1,9 +1,6 @@
 ---
 title: "LANDesk 9.5 SP1 Inventory Scan Missing 32-bit Applications from Add or Remove Programs Inventory"
 date: 2013-09-20
-categories:
-  - "Landesk"
-  - "Landesk Managment Suite"
 tags: ["32bit-programs-missing", "cr75998-95", "landesk", "landesk-managmentsuite", "ldiscn32", "ldms-9-5-sp1"]
 categories: ["landesk", "landesk-managmentsuite"]
 ---

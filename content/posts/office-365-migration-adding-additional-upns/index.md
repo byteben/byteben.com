@@ -1,10 +1,6 @@
 ---
 title: "Office 365 Migration - Adding Additional UPNs"
 date: 2018-07-14
-categories:
-  - "Identity"
-  - "Microsoft"
-  - "Office 365"
 tags: ["identity", "non-routable-domain", "office-365", "upn", "upn-suffix"]
 categories: ["identity", "microsoft", "office365"]
 ---

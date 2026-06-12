@@ -1,10 +1,6 @@
 ---
 title: "Getting Started with Microsoft Intune Proactive Remediations"
 date: 2020-09-09
-categories:
-  - "Intune"
-  - "Microsoft"
-  - "Windows 10"
 tags: ["endpoint-analytics", "mempowered", "msintune", "proactive-remediations"]
 categories: ["intune", "microsoft", "windows-10"]
 ---

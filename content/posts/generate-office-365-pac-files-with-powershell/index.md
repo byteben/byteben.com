@@ -1,10 +1,6 @@
 ---
 title: "Generate Office 365 PAC Files with PowerShell"
 date: 2019-01-25
-categories:
-  - "Microsoft"
-  - "Office 365"
-  - "Scripts"
 tags: ["office-365", "pac", "powershell", "proxies", "proxy-server"]
 categories: ["microsoft", "office365", "scripts"]
 ---

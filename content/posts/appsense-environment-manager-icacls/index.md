@@ -1,12 +1,6 @@
 ---
 title: "AppSense Environment Manager - Using ICACLS / WIN7 IE Print Preview Blank Page"
 date: 2013-02-12
-categories:
-  - "AppSense"
-  - "AppSense - Environment Manager - Scripts"
-  - "AppSense Environment Manager"
-  - "AppSense Environment Manager Configurations"
-  - "Microsoft"
 tags: ["appsense", "appsense-environmentmanager", "appsense-environmentmanager-configurations", "icacls", "ie-print-preview", "kb973479"]
 categories: ["appsense", "appsense-environmentmanager-scripts", "appsense-environmentmanager", "appsense-environmentmanager-configurations", "microsoft"]
 ---

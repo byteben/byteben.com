@@ -1,11 +1,6 @@
 ---
 title: "Co-management Series “Merging the Perimeter” – Part 6: Switching Workloads to Intune"
 date: 2019-09-14
-categories:
-  - "ConfigMgr / MEMCM / SCCM"
-  - "Intune"
-  - "Microsoft"
-  - "Windows 10"
 tags: ["clientapps", "co-management", "comgmt", "msintune", "sccm", "workloads"]
 categories: ["configmgr-memcm-sccm", "intune", "microsoft", "windows-10"]
 ---

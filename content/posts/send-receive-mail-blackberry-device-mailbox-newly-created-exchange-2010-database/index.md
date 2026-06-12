@@ -1,9 +1,6 @@
 ---
 title: "Cannot send or receive mail on Blackberry Device for mailbox on newly created Exchange 2010 Database"
 date: 2014-01-25
-categories:
-  - "Microsoft"
-  - "Microsoft Exchange"
 tags: ["bes-permissions", "besadmin", "byod", "database-permissions", "exchange-2010", "iemstest-exe", "mailboxdatabase", "microsoft-exchange"]
 categories: ["microsoft", "microsoft-exchange"]
 ---

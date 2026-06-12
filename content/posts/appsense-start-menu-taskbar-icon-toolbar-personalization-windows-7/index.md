@@ -1,10 +1,6 @@
 ---
 title: "AppSense Start Menu /Taskbar Icon and Toolbar Personalization for Windows 7 - To Hive or not to Hive?"
 date: 2013-02-04
-categories:
-  - "AppSense"
-  - "AppSense Environment Manager"
-  - "AppSense Environment Manager Configurations"
 tags: ["appsense", "appsense-environmentmanager", "appsense-environmentmanager-configurations", "registry-hiving", "windows-7-taskbar-icons", "xenapp-taskbar-icons"]
 categories: ["appsense", "appsense-environmentmanager", "appsense-environmentmanager-configurations"]
 ---

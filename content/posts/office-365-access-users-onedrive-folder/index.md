@@ -1,9 +1,6 @@
 ---
 title: "Office 365 - Access a Users OneDrive Folder"
 date: 2018-10-15
-categories:
-  - "Microsoft"
-  - "Office 365"
 tags: ["access-files", "office-365", "onedrive", "personal-site", "sharepoint", "site-collection-owner"]
 categories: ["microsoft", "office365"]
 ---

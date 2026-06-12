@@ -1,10 +1,6 @@
 ---
 title: "Personalize Adobe Reader with AppSense"
 date: 2013-06-16
-categories:
-  - "AppSense"
-  - "AppSense Environment Manager"
-  - "AppSense Environment Manager Configurations"
 tags: ["csidl_common_appdataadobearm", "acrord32-exe", "adobe-reader", "appsense", "appsense-environmentmanager", "appsense-environmentmanager-configurations"]
 categories: ["appsense", "appsense-environmentmanager", "appsense-environmentmanager-configurations"]
 ---

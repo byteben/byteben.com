@@ -1,11 +1,6 @@
 ---
 title: "Create an Intune Configuration Profile to deploy the \"My Apps Secure Sign-in Experience\" Extension for Edge"
 date: 2020-04-05
-categories:
-  - "Azure"
-  - "Intune"
-  - "Microsoft"
-  - "Windows 10"
 tags: ["extensions", "intune", "msedge", "myapps", "sso"]
 categories: ["azure", "intune", "microsoft", "windows-10"]
 ---

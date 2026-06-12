@@ -1,10 +1,6 @@
 ---
 title: "Identifying and Updating SCCM Collection Evaluations with PowerShell"
 date: 2018-12-17
-categories:
-  - "ConfigMgr / MEMCM / SCCM"
-  - "Microsoft"
-  - "Scripts"
 tags: ["collections", "get-cmcollection", "sccm", "set-cmcollection"]
 categories: ["configmgr-memcm-sccm", "microsoft", "scripts"]
 ---

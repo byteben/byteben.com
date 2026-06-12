@@ -1,11 +1,6 @@
 ---
 title: "Using scripts to evaluate Win32 app requirements - \"Require Chassis equals Laptop\""
 date: 2020-10-01
-categories:
-  - "Intune"
-  - "Microsoft"
-  - "Scripts"
-  - "Windows 10"
 tags: ["app-requirements", "compliance", "ime", "intune-management-extension", "msintune", "powershell", "scripts-2", "win32apps"]
 categories: ["intune", "microsoft", "scripts", "windows-10"]
 ---

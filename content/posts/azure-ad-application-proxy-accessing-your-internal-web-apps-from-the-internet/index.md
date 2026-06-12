@@ -1,11 +1,6 @@
 ---
 title: "Azure AD Application Proxy - \"Accessing your internal Web Apps from the Internet\""
 date: 2019-11-09
-categories:
-  - "Azure"
-  - "Identity"
-  - "Microsoft"
-  - "Windows 10"
 tags: ["aad", "aad-application-proxy", "azure", "azure-active-directory", "intranet", "proxy-connector"]
 categories: ["azure", "identity", "microsoft", "windows-10"]
 ---

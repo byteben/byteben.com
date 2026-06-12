@@ -1,9 +1,6 @@
 ---
 title: "Identifying and Installing SCCM Client Software Updates Remotely with PowerShell and trigger a VMware Snapshot before Remediation - Part 1 of 3"
 date: 2018-12-28
-categories:
-  - "ConfigMgr / MEMCM / SCCM"
-  - "Microsoft"
 tags: ["configmgr", "powershell", "sccm", "software-updates", "vmware", "wmi"]
 categories: ["configmgr-memcm-sccm", "microsoft"]
 ---

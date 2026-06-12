@@ -1,10 +1,6 @@
 ---
 title: "How to Deploy Fonts with MEMCM"
 date: 2020-07-04
-categories:
-  - "ConfigMgr / MEMCM / SCCM"
-  - "Microsoft"
-  - "Windows 10"
 tags: ["configmgr", "fonts", "memcm", "powershell", "sccm", "windows10"]
 categories: ["configmgr-memcm-sccm", "microsoft", "windows-10"]
 ---

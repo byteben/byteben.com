@@ -1,10 +1,6 @@
 ---
 title: "Co-management Series \"Merging the Perimeter\" - Part 2: Paths to Co-management"
 date: 2019-08-30
-categories:
-  - "ConfigMgr / MEMCM / SCCM"
-  - "Intune"
-  - "Microsoft"
 tags: ["co-management", "configmgr", "paths", "sccm", "workloads"]
 categories: ["configmgr-memcm-sccm", "intune", "microsoft"]
 ---

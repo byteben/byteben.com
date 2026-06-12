@@ -1,10 +1,6 @@
 ---
 title: "Signing PowerShell Scripts for an SCCM App Detection Method"
 date: 2018-07-24
-categories:
-  - "ConfigMgr / MEMCM / SCCM"
-  - "Microsoft"
-  - "Scripts"
 tags: ["app-detection", "ca", "code-signing", "configmgr", "pki", "powershell", "sccm", "script"]
 categories: ["configmgr-memcm-sccm", "microsoft", "scripts"]
 ---

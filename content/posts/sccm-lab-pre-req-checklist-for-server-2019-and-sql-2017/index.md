@@ -1,9 +1,6 @@
 ---
 title: "SCCM Lab Pre-Req Checklist for Server 2019 and SQL 2017"
 date: 2019-02-10
-categories:
-  - "ConfigMgr / MEMCM / SCCM"
-  - "Microsoft"
 tags: ["configmgr", "server-2019", "technical-preview"]
 categories: ["configmgr-memcm-sccm", "microsoft"]
 ---

@@ -1,12 +1,6 @@
 ---
 title: "Listing Actual vs Expected DNS Records for a Microsoft 365 Tenant with PowerShell"
 date: 2020-11-24
-categories:
-  - "Intune"
-  - "Microsoft"
-  - "Microsoft Exchange"
-  - "Office 365"
-  - "Scripts"
 tags: ["cname-record", "dns-records", "get-azureaddomainserviceconfigurationrecord", "m365-tenant-dns", "mx-record", "resolve-dnsname", "verified-domain"]
 categories: ["intune", "microsoft", "microsoft-exchange", "office365", "scripts"]
 ---

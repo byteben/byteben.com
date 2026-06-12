@@ -1,13 +1,6 @@
 ---
 title: "Office 365 updates stop working when workloads are switched to Intune"
 date: 2020-08-03
-categories:
-  - "ConfigMgr / MEMCM / SCCM"
-  - "Intune"
-  - "Microsoft"
-  - "Office 365"
-  - "Scripts"
-  - "Windows 10"
 tags: ["c2r", "intune", "office365", "proactive-remediation"]
 categories: ["configmgr-memcm-sccm", "intune", "microsoft", "office365", "scripts", "windows-10"]
 ---

@@ -1,10 +1,6 @@
 ---
 title: "Deploy RSAT for Windows 10 1809 using SCCM"
 date: 2019-03-22
-categories:
-  - "ConfigMgr / MEMCM / SCCM"
-  - "Microsoft"
-  - "Scripts"
 tags: ["1809", "configmgr", "rsat", "sccm", "windows-10"]
 categories: ["configmgr-memcm-sccm", "microsoft", "scripts"]
 ---

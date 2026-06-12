@@ -1,11 +1,6 @@
 ---
 title: "Windows 10 - Hybrid Azure Active Directory Join for Federated Domains"
 date: 2019-04-14
-categories:
-  - "Azure"
-  - "ConfigMgr / MEMCM / SCCM"
-  - "Identity"
-  - "Microsoft"
 tags: ["adfs", "azure-ad-hybrid-join", "claims", "federation", "scp", "windows-10"]
 categories: ["azure", "configmgr-memcm-sccm", "identity", "microsoft"]
 ---

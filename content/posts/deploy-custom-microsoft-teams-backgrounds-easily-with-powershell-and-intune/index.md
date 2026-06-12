@@ -1,13 +1,6 @@
 ---
 title: "Deploy custom Microsoft Teams backgrounds, easily, with PowerShell and Intune"
 date: 2020-06-28
-categories:
-  - "ConfigMgr / MEMCM / SCCM"
-  - "Intune"
-  - "Microsoft"
-  - "Office 365"
-  - "Scripts"
-  - "Windows 10"
 tags: ["custom-background", "intune-management-extension", "invoke-webrequest", "microsoft-teams", "office-365", "powershell", "teams", "win32apps"]
 categories: ["configmgr-memcm-sccm", "intune", "microsoft", "office365", "scripts", "windows-10"]
 ---

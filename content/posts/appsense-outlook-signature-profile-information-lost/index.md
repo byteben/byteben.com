@@ -1,10 +1,6 @@
 ---
 title: "AppSense Outlook Signature and other Profile Information Lost"
 date: 2014-06-12
-categories:
-  - "AppSense"
-  - "AppSense DesktopNow"
-  - "AppSense Environment Manager"
 tags: ["appsense-environmentmanager-configurations", "hkey_local_machinesoftwarewow6432nodemicrosoftoffice14-0outlooksetup", "microsoft", "outlook", "outlook-profile", "outlook-signature-missing"]
 categories: ["appsense", "appsense-desktopnow", "appsense-environmentmanager"]
 ---

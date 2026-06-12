@@ -1,9 +1,6 @@
 ---
 title: "AppSense Environment Manager Antivirus Exclusions"
 date: 2013-06-09
-categories:
-  - "AppSense"
-  - "AppSense Environment Manager"
 tags: ["antivirus", "antivirus-exclusions", "appsense", "appsense-environmentmanager", "trend-micro"]
 categories: ["appsense", "appsense-environmentmanager"]
 ---

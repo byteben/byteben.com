@@ -1,10 +1,6 @@
 ---
 title: "How to Personalize Microsoft Office 2010 with AppSense"
 date: 2013-06-19
-categories:
-  - "AppSense"
-  - "AppSense Environment Manager"
-  - "AppSense Environment Manager Configurations"
 tags: ["csidl_appdatamicrosoftexcel", "csidl_appdatamicrosoftword", "appsense", "appsense-application-group", "appsense-environmentmanager", "appsense-environmentmanager-configurations", "autorecover", "office-2010", "office-2010-personalization"]
 categories: ["appsense", "appsense-environmentmanager", "appsense-environmentmanager-configurations"]
 ---

@@ -1,10 +1,6 @@
 ---
 title: "Migrating Outlook 2003 NK2 File into Outlook 2010 with AppSense"
 date: 2012-10-30
-categories:
-  - "AppSense"
-  - "AppSense Environment Manager"
-  - "AppSense Environment Manager Configurations"
 tags: ["appsense", "appsense-environmentmanager", "appsense-environmentmanager-configurations", "nk2-file-import", "outlook-2010", "outlook-2010-nk2"]
 categories: ["appsense", "appsense-environmentmanager", "appsense-environmentmanager-configurations"]
 ---

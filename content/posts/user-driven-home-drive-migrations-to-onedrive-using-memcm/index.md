@@ -1,12 +1,6 @@
 ---
 title: "User-Driven Home Drive Migrations to OneDrive using MEMCM"
 date: 2021-03-01
-categories:
-  - "ConfigMgr / MEMCM / SCCM"
-  - "Microsoft"
-  - "OneDrive"
-  - "Scripts"
-  - "Windows 10"
 tags: ["file-server", "memcm", "migration", "powershell", "robocopy", "sccm"]
 categories: ["configmgr-memcm-sccm", "microsoft", "onedrive", "scripts", "windows-10"]
 ---

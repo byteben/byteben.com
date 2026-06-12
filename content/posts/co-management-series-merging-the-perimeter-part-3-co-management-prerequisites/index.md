@@ -1,11 +1,6 @@
 ---
 title: "Co-management Series \"Merging the Perimeter\" – Part 3: Co-management Prerequisites"
 date: 2019-08-31
-categories:
-  - "ConfigMgr / MEMCM / SCCM"
-  - "Intune"
-  - "Microsoft"
-  - "Windows 10"
 tags: ["aad", "co-management", "configmgr", "intune"]
 categories: ["configmgr-memcm-sccm", "intune", "microsoft", "windows-10"]
 ---

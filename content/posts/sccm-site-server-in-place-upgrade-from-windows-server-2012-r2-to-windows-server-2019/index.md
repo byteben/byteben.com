@@ -1,9 +1,6 @@
 ---
 title: "SCCM Site Server In-Place Upgrade from Windows Server 2012 R2 to Windows Server 2019"
 date: 2019-07-07
-categories:
-  - "ConfigMgr / MEMCM / SCCM"
-  - "Microsoft"
 tags: ["configmgr", "in-place-upgrade", "ipu", "primary-site-server", "sccm", "server-2012-r2", "server-2019", "site-reset"]
 categories: ["configmgr-memcm-sccm", "microsoft"]
 ---

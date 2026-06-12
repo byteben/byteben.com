@@ -1,9 +1,6 @@
 ---
 title: "How to find what numbers are in use on a Mitel 3300"
 date: 2013-06-10
-categories:
-  - "Mitel"
-  - "Mitel 3300"
 tags: ["free-directory-number", "loc-num", "locate-number", "mitel", "mitel-3300", "mitel-commands"]
 categories: ["mitel", "mitel-3300"]
 ---

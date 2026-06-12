@@ -1,8 +1,6 @@
 ---
 title: "ESXi Host Slow Boot stuck on vmw_satp_alua"
 date: 2018-08-15
-categories:
-  - "VMware"
 tags: ["esxi", "perennially-reserved", "slow-boot", "vmw_satp_alua", "vmware"]
 categories: ["vmware"]
 ---

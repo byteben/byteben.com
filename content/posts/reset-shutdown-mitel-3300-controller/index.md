@@ -1,9 +1,6 @@
 ---
 title: "How to Reset or Shutdown a Mitel 3300 Controller"
 date: 2012-10-01
-categories:
-  - "Mitel"
-  - "Mitel 3300"
 tags: ["mitel", "mitel-3300", "mitel-3300-reset", "mitel-3300-shutdown", "mitel-reset"]
 categories: ["mitel", "mitel-3300"]
 ---

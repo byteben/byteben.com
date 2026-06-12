@@ -1,8 +1,6 @@
 ---
 title: "Windows 8 - Here we come"
 date: 2012-10-28
-categories:
-  - "Microsoft"
 tags: ["microsoft", "windows-8"]
 categories: ["microsoft"]
 ---

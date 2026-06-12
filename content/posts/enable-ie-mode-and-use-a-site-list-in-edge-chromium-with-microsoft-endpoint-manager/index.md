@@ -1,11 +1,6 @@
 ---
 title: "Enable IE Mode and use a Site List in Edge Chromium with Microsoft Endpoint Manager"
 date: 2020-05-15
-categories:
-  - "ConfigMgr / MEMCM / SCCM"
-  - "Intune"
-  - "Microsoft"
-  - "Windows 10"
 tags: ["configmgr", "edge", "edge-chromium", "ie-mode", "intune", "mem", "memcm", "site-list"]
 categories: ["configmgr-memcm-sccm", "intune", "microsoft", "windows-10"]
 ---

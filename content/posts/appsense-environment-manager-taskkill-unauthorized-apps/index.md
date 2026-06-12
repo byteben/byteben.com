@@ -1,11 +1,6 @@
 ---
 title: "Using AppSense Environment Manager to Taskkill Unauthorized Apps..What??"
 date: 2013-02-12
-categories:
-  - "AppSense"
-  - "AppSense - Environment Manager - Scripts"
-  - "AppSense Environment Manager"
-  - "AppSense Environment Manager Configurations"
 tags: ["appsense", "appsense-environmentmanager", "appsense-environmentmanager-configurations", "process-trigger", "taskkill"]
 categories: ["appsense", "appsense-environmentmanager-scripts", "appsense-environmentmanager", "appsense-environmentmanager-configurations"]
 ---

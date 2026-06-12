@@ -1,11 +1,6 @@
 ---
 title: "Co-management Series “Merging the Perimeter” – Part 8: Monitoring Co-management"
 date: 2019-09-25
-categories:
-  - "ConfigMgr / MEMCM / SCCM"
-  - "Intune"
-  - "Microsoft"
-  - "Windows 10"
 tags: ["co-management", "comanagementhandler", "comgmt", "configmgr", "logs", "monitoring", "msintune", "sccm"]
 categories: ["configmgr-memcm-sccm", "intune", "microsoft", "windows-10"]
 ---

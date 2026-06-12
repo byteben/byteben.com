@@ -1,12 +1,6 @@
 ---
 title: "AppSense Environment Manager Custom Action Script Exit Codes"
 date: 2013-02-26
-categories:
-  - "AppSense"
-  - "AppSense - Environment Manager - Scripts"
-  - "AppSense Environment Manager"
-  - "AppSense Environment Manager Configurations"
-  - "Scripts"
 tags: ["appsense", "appsense-environmentmanager", "appsense-environmentmanager-configurations", "appsense-environmentmanager-scripts-2", "jscript", "powershell", "vbscrip", "wscript-quit"]
 categories: ["appsense", "appsense-environmentmanager-scripts", "appsense-environmentmanager", "appsense-environmentmanager-configurations", "scripts"]
 ---

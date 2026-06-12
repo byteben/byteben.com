@@ -1,9 +1,6 @@
 ---
 title: "SCCM Report to group number of outstanding updates, for a collection, in 30 day intervals"
 date: 2018-05-11
-categories:
-  - "ConfigMgr / MEMCM / SCCM"
-  - "Microsoft"
 tags: ["rdl", "reports", "sccm", "sql", "wsus"]
 categories: ["configmgr-memcm-sccm", "microsoft"]
 ---

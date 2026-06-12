@@ -1,9 +1,6 @@
 ---
 title: "AppSense Management Server Error after Installation - \"Could not load type 'System.ServiceModel. Activation.HttpModule' from assembly 'System.ServiceModel, Version=3.0.0.0, Culture=neutral, PublicKeyToken= b77a5c561934e089\""
 date: 2013-06-18
-categories:
-  - "AppSense"
-  - "AppSense Environment Manager"
 tags: ["amc", "appsense", "appsense-environmentmanager", "appsense-management-server", "could-not-load-type-system-servicemodel-activation-httpmodule-from-assembly-system-servicemodel", "cultureneutral", "publickeytokenb77a5c561934e089", "version3-0-0-0"]
 categories: ["appsense", "appsense-environmentmanager"]
 ---

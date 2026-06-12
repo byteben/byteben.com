@@ -1,10 +1,6 @@
 ---
 title: "Co-management Series \"Merging the Perimeter\" - Part 1: What is Co-management?"
 date: 2019-08-29
-categories:
-  - "ConfigMgr / MEMCM / SCCM"
-  - "Intune"
-  - "Microsoft"
 tags: ["co-exist", "sccm", "workloads"]
 categories: ["configmgr-memcm-sccm", "intune", "microsoft"]
 ---

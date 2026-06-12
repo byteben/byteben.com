@@ -1,9 +1,6 @@
 ---
 title: "Connect to SharePoint Online using PowerShell"
 date: 2018-10-16
-categories:
-  - "Microsoft"
-  - "Office 365"
 tags: ["connect-sposervice", "powershell", "sharepoint-online", "spo"]
 categories: ["microsoft", "office365"]
 ---

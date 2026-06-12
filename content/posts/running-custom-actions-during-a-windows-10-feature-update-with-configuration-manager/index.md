@@ -1,11 +1,6 @@
 ---
 title: "Running custom actions during a Windows 10 Feature Update with Configuration Manager"
 date: 2021-04-12
-categories:
-  - "ConfigMgr / MEMCM / SCCM"
-  - "Microsoft"
-  - "Scripts"
-  - "Windows 10"
 tags: ["feature-update", "postoobe", "setupconfig-ini", "waas"]
 categories: ["configmgr-memcm-sccm", "microsoft", "rssexclude", "scripts", "windows-10"]
 ---

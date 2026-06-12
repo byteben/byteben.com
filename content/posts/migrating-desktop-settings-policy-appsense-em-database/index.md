@@ -1,10 +1,6 @@
 ---
 title: "Migrating Desktop Settings from Policy into the AppSense EM Database"
 date: 2012-10-16
-categories:
-  - "AppSense"
-  - "AppSense Environment Manager"
-  - "AppSense Environment Manager Configurations"
 tags: ["appsense", "appsense-environmentmanager", "appsense-environmentmanager-configurations", "appsense-environmentmanager-scripts-2", "windows-7-pinned-lists"]
 categories: ["appsense", "appsense-environmentmanager", "appsense-environmentmanager-configurations"]
 ---

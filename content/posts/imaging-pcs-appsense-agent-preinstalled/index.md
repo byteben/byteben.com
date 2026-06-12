@@ -1,12 +1,6 @@
 ---
 title: "Imaging PCs with AppSense Environment Agent PreInstalled"
 date: 2012-09-30
-categories:
-  - "AppSense"
-  - "AppSense - Environment Manager - Scripts"
-  - "AppSense Environment Manager"
-  - "AppSense Environment Manager Configurations"
-  - "Scripts"
 tags: ["appsense", "appsense-environmentmanager", "appsense-environment-manager-agent", "appsense-environmentmanager-configurations", "appsense-environmentmanager-scripts-2", "scripts-2"]
 categories: ["appsense", "appsense-environmentmanager-scripts", "appsense-environmentmanager", "appsense-environmentmanager-configurations", "scripts"]
 ---

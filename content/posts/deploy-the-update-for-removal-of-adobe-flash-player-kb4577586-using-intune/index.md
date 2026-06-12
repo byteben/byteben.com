@@ -1,11 +1,6 @@
 ---
 title: "Deploy the Update for Removal of Adobe Flash Player (KB4577586) using Intune"
 date: 2021-01-03
-categories:
-  - "Intune"
-  - "Microsoft"
-  - "Scripts"
-  - "Windows 10"
 tags: ["flash-player", "intune", "kb4577586", "powershell", "uninstall", "win32app"]
 categories: ["intune", "microsoft", "scripts", "windows-10"]
 ---

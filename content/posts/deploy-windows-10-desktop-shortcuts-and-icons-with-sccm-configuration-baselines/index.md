@@ -1,10 +1,6 @@
 ---
 title: "Deploy Windows 10 Desktop Shortcuts and Icons with SCCM Configuration Baselines"
 date: 2019-05-12
-categories:
-  - "ConfigMgr / MEMCM / SCCM"
-  - "Microsoft"
-  - "Windows 10"
 tags: ["ico", "applications", "baseline-evaluation", "configuration-baseline", "configuration-item", "desktop-icons", "packages", "sccm", "windows-10"]
 categories: ["configmgr-memcm-sccm", "microsoft", "windows-10"]
 ---

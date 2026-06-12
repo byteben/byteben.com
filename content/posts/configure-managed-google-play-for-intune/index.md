@@ -1,9 +1,6 @@
 ---
 title: "Configure Managed Google Play for Intune"
 date: 2019-03-23
-categories:
-  - "Intune"
-  - "Microsoft"
 tags: ["android-enrollment", "android-enterprise", "intune", "managed-google-play", "msintune", "work-profile"]
 categories: ["intune", "microsoft"]
 ---

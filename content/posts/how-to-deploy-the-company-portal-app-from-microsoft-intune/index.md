@@ -1,10 +1,6 @@
 ---
 title: "How to deploy the Company Portal app from Microsoft Intune"
 date: 2020-09-09
-categories:
-  - "Intune"
-  - "Microsoft"
-  - "Windows 10"
 tags: ["company-portal", "microsoft-intune", "sfb", "store-for-business"]
 categories: ["intune", "microsoft", "windows-10"]
 ---

@@ -1,11 +1,6 @@
 ---
 title: "Using MEMCM to fix legacy GPO settings that prevent co-managed clients getting updates from Intune"
 date: 2020-07-18
-categories:
-  - "ConfigMgr / MEMCM / SCCM"
-  - "Intune"
-  - "Microsoft"
-  - "Windows 10"
 tags: ["automatic-updates", "configuration-baseline", "configuration-policy", "csp", "gpo", "intune", "memcm", "remediation", "update-rings"]
 categories: ["configmgr-memcm-sccm", "intune", "microsoft", "windows-10"]
 ---

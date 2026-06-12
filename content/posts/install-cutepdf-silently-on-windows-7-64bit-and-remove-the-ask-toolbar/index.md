@@ -1,10 +1,6 @@
 ---
 title: "Install CutePDF Silently on Windows 7 64bit and remove the ASK Toolbar"
 date: 2012-09-28
-categories:
-  - "Landesk"
-  - "Landesk Managment Suite"
-  - "Scripts"
 tags: ["ask-toolbar", "cutepdf", "cutepdf-silent", "landesk", "landesk-managmentsuite", "windows-7-64bit-cutepdf"]
 categories: ["landesk", "landesk-managmentsuite", "scripts"]
 ---

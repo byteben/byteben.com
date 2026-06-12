@@ -1,10 +1,6 @@
 ---
 title: "Intune Conditional Access - Policy Documentation Template"
 date: 2018-10-12
-categories:
-  - "Azure"
-  - "Intune"
-  - "Microsoft"
 tags: ["azure", "ca", "conditional-access", "documentation", "intune", "mdm"]
 categories: ["azure", "intune", "microsoft"]
 ---

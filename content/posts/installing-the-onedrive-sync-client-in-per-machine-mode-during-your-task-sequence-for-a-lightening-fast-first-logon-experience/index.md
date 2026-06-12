@@ -1,12 +1,6 @@
 ---
 title: "Installing the OneDrive Sync Client in \"Per-Machine\" mode during your Task Sequence for a lightening fast \"first logon\" experience"
 date: 2019-06-24
-categories:
-  - "Microsoft"
-  - "Office 365"
-  - "OneDrive"
-  - "Scripts"
-  - "Windows 10"
 tags: ["onedrive", "silent-login", "sync-client", "task-sequence"]
 categories: ["microsoft", "office365", "onedrive", "scripts", "windows-10"]
 ---

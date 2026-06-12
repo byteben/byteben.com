@@ -1,10 +1,6 @@
 ---
 title: "Appsense Not Personalizing Internet Explorer Trusted Sites"
 date: 2012-09-26
-categories:
-  - "AppSense"
-  - "AppSense Environment Manager"
-  - "AppSense Environment Manager Configurations"
 tags: ["appsense", "appsense-environmentmanager", "appsense-environmentmanager-configurations", "internet-explorer-trusted-sites"]
 categories: ["appsense", "appsense-environmentmanager", "appsense-environmentmanager-configurations"]
 ---

@@ -1,9 +1,6 @@
 ---
 title: "Install Microsoft Teams PowerShell Module"
 date: 2018-10-23
-categories:
-  - "Microsoft"
-  - "Office 365"
 tags: ["connect-microsoftteams", "install-teams-module", "msteam", "posh", "powershell", "powershell-gallery", "teams"]
 categories: ["microsoft", "office365"]
 ---

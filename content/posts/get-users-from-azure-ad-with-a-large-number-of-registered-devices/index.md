@@ -1,11 +1,6 @@
 ---
 title: "Get Users from Azure AD with a large number of Registered Devices"
 date: 2019-04-16
-categories:
-  - "Azure"
-  - "Identity"
-  - "Microsoft"
-  - "Scripts"
 tags: ["azure-ad", "device-limit", "device-registration", "down-level-devices", "workplace-join"]
 categories: ["azure", "identity", "microsoft", "scripts"]
 ---

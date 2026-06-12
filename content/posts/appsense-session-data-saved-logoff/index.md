@@ -1,12 +1,6 @@
 ---
 title: "AppSense Environment Manager Session Data Not Saved at Logoff - EmExit.bat"
 date: 2013-06-11
-categories:
-  - "AppSense"
-  - "AppSense - Environment Manager - Scripts"
-  - "AppSense Environment Manager"
-  - "AppSense Environment Manager Configurations"
-  - "Scripts"
 tags: ["appsense", "appsense-environmentmanager", "appsense-environmentmanager-configurations", "appsense-environmentmanager-scripts-2", "desktop-settings", "emcoreservice", "emexit-bat", "gpt-ini", "session-data"]
 categories: ["appsense", "appsense-environmentmanager-scripts", "appsense-environmentmanager", "appsense-environmentmanager-configurations", "scripts"]
 ---

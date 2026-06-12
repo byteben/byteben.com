@@ -1,10 +1,6 @@
 ---
 title: "SCCM 1906 Co-management Capabilities Matrix"
 date: 2019-08-18
-categories:
-  - "ConfigMgr / MEMCM / SCCM"
-  - "Microsoft"
-  - "Scripts"
 tags: ["1906", "bitwise", "capabilities", "co-management", "configmgr", "powershell"]
 categories: ["configmgr-memcm-sccm", "microsoft", "scripts"]
 ---

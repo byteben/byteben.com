@@ -1,10 +1,6 @@
 ---
 title: "\"The site database has a backlog of SQL change tracking data\""
 date: 2019-07-28
-categories:
-  - "ConfigMgr / MEMCM / SCCM"
-  - "Microsoft"
-  - "Scripts"
 tags: ["backlog", "change-tracking", "configmgr", "current-branch", "prerequisite", "sccm", "site-database", "sql"]
 categories: ["configmgr-memcm-sccm", "microsoft", "scripts"]
 ---

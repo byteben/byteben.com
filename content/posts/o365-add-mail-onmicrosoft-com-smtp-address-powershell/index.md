@@ -1,11 +1,6 @@
 ---
 title: "O365 - How to add a mail.onmicrosoft.com smtp address using PowerShell"
 date: 2018-07-28
-categories:
-  - "Microsoft"
-  - "Microsoft Exchange"
-  - "Office 365"
-  - "Scripts"
 tags: ["exchange-address-book-policy", "mail-onmicrosoft-com", "o365", "powershell", "tenant"]
 categories: ["microsoft", "microsoft-exchange", "office365", "scripts"]
 ---

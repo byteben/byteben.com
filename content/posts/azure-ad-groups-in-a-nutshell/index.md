@@ -1,13 +1,6 @@
 ---
 title: "Azure AD Groups - in a nutshell"
 date: 2020-04-13
-categories:
-  - "Azure"
-  - "Identity"
-  - "Intune"
-  - "Microsoft"
-  - "Office 365"
-  - "Scripts"
 tags: ["azure-ad", "dynamic-group", "group", "office-365-group", "powershell"]
 categories: ["azure", "identity", "intune", "microsoft", "office365", "scripts"]
 ---
