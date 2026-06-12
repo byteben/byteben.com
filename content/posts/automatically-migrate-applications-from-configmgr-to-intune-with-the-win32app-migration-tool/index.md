@@ -456,14 +456,11 @@ Win32 App Migration Tool GitHub Repo
 
 ## Summary
 
-At the time of writing this post the Win32App Migration Tool is still in BETA. I am thrilled by the community buzz and interest so far. I cannot wait to see the feedback during the Release and General Availability phases as the tool is developed in collaboration with the MEM community. I am particularly excited about the upcoming Console Extension in ConfigMgr!
+I am thrilled by the community buzz and interest so far. Thank you for your feedback!
 
-If you have any feedback or ideas, my DMs are open on Twitter [@byteben](https://twitter.com/byteben), or you can collaborate/report issues on the GitHub page [https://github.com/byteben/Win32App-Migration-Tool](https://github.com/byteben/Win32App-Migration-Tool).
 
-> ### Enterprise Application Migration
->
-> For enterprises looking for application migration at scale, take a look at [Patch My PC App Migration](https://patchmypc.com/product/migration/). It is not just a lift-and-shift migration.
->
-> Patch My PC can match existing ConfigMgr applications to the Patch My PC catalog, update apps, fix CVEs, bring across settings and configurations, and notify you about vulnerabilities in ConfigMgr apps. It also includes PSADT AI analysis to intelligently split PSADT pre-install and post-install blocks so scripts remain editable in the UI.
->
-> Read the [Patch My PC App Migration documentation](https://docs.patchmypc.com/patch-my-pc-cloud/migration/overview) or [book a demo](https://patchmypc.com/demo).
+For enterprises looking for application migration at scale, take a look at [Patch My PC App Migration](https://patchmypc.com/product/migration/). It is not just a lift-and-shift migration.
+
+Patch My PC can match existing ConfigMgr applications to the Patch My PC catalog, update apps, fix CVEs, bring across settings and configurations, and notify you about vulnerabilities in ConfigMgr apps. It also includes PSADT AI analysis to intelligently split PSADT pre-install and post-install blocks so scripts remain editable in the UI.
+
+Read the [Patch My PC App Migration documentation](https://docs.patchmypc.com/patch-my-pc-cloud/migration/overview) or [book a demo](https://patchmypc.com/demo).
