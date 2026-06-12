@@ -56,20 +56,6 @@ Maurice Daly has a good blog post on how to deploy Win32apps - go and check it o
 
 The **Win32App Migration Tool** is a free community tool that has been developed to do the scoping and heavy lifting for you as you consider building Win32apps in Intune while using your ConfigMgr apps as a reference. The tool is designed to inventory ConfigMgr Applications and Deployment Types, build .intunewin files and create Win32apps directly in the MEM admin center. Instead of manually checking Application and Deployment Type information and gathering content to build Win32apps, the Win32App Migration Tool is designed to do that for you.
 
-### Planned Development
-
-The Win32App Migration Tool is still in development. This is a FREE community tool and will have input from various community members through each development stage. At the time of writing this post the tool is still in **BETA** with the intention to move rapidly to **RELEASE** and then **General Availability (GA)**. You can expect the following features at each release cycle: -
-
-<figure>
-
-[![](/images/2021/03/image-23-1024x722.png)](/images/2021/03/image-23.png)
-
-<figcaption>
-
-Win32 App Migration Tool Development Release Cycle
-
-</figcaption>
-
 </figure>
 
 ### Requirements
