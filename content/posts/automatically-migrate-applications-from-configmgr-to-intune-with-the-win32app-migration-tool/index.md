@@ -5,7 +5,7 @@ tags: ["configmgr", "intune", "intunewin", "mem", "powershell", "win32-content-p
 categories: ["configmgr-memcm-sccm", "intune", "microsoft", "scripts"]
 ---
 
-> A newer version of this blog is available at [https://msendpointmgr.com/2021/03/27/automatically-migrate-applications-from-configmgr-to-intune-with-the-win32app-migration-tool/](https://msendpointmgr.com/2021/03/27/automatically-migrate-applications-from-configmgr-to-intune-with-the-win32app-migration-tool/).
+> This blog moved to MSEndpointMgr. Read the updated version here: [Automatically Migrate Applications from ConfigMgr to Intune with the Win32App Migration Tool](https://msendpointmgr.com/2021/03/27/automatically-migrate-applications-from-configmgr-to-intune-with-the-win32app-migration-tool/).
 
 The **Win32App Migration Tool** is a free community tool that has been developed to do the scoping and heavy lifting for you as you consider building Win32apps in Intune while using your ConfigMgr apps as a reference. The tool is designed to inventory ConfigMgr Applications and Deployment Types, build .intunewin files and create Win32apps directly in the MEM admin center.
 
@@ -474,11 +474,10 @@ At the time of writing this post the Win32App Migration Tool is still in BETA. I
 
 If you have any feedback or ideas, my DMs are open on Twitter [@byteben](https://twitter.com/byteben), or you can collaborate/report issues on the GitHub page [https://github.com/byteben/Win32App-Migration-Tool](https://github.com/byteben/Win32App-Migration-Tool).
 
-> #
 > ### Enterprise Application Migration
+>
 > For enterprises looking for application migration at scale, take a look at [Patch My PC App Migration](https://patchmypc.com/product/migration/). It is not just a lift-and-shift migration.
 >
 > Patch My PC can match existing ConfigMgr applications to the Patch My PC catalog, update apps, fix CVEs, bring across settings and configurations, and notify you about vulnerabilities in ConfigMgr apps. It also includes PSADT AI analysis to intelligently split PSADT pre-install and post-install blocks so scripts remain editable in the UI.
 >
 > Read the [Patch My PC App Migration documentation](https://docs.patchmypc.com/patch-my-pc-cloud/migration/overview) or [book a demo](https://patchmypc.com/demo).
-> #
