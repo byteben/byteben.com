@@ -454,12 +454,13 @@ Win32 App Migration Tool GitHub Repo
 
 </figure>
 
-## Summary
+## Looking for an Enterprise Solution?
 
 I am thrilled by the community buzz and interest so far. Thank you for your feedback!
 
+Hey, transparency mode activiated, I work at Patch My PC! I understand that enterprise organisations looking to migrate their ConfigMgr apps need an enterprise-grade solution rather than a community tool.
 
-For enterprises looking for application migration at scale, take a look at [Patch My PC App Migration](https://patchmypc.com/product/migration/). It is not just a lift-and-shift migration.
+If you are looking to migrate applications at scale, take a look at [Patch My PC App Migration](https://patchmypc.com/product/migration/). It is not just a lift-and-shift migration.
 
 Patch My PC can match existing ConfigMgr applications to the Patch My PC catalog, update apps, fix CVEs, bring across settings and configurations, and notify you about vulnerabilities in ConfigMgr apps. It also includes PSADT AI analysis to intelligently split PSADT pre-install and post-install blocks so scripts remain editable in the UI.
 
