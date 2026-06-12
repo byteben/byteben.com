@@ -5,6 +5,8 @@ tags: ["configmgr", "intune", "intunewin", "mem", "powershell", "win32-content-p
 categories: ["configmgr-memcm-sccm", "intune", "microsoft", "scripts"]
 ---
 
+> A newer version of this blog is available at [https://msendpointmgr.com/2021/03/27/automatically-migrate-applications-from-configmgr-to-intune-with-the-win32app-migration-tool/](https://msendpointmgr.com/2021/03/27/automatically-migrate-applications-from-configmgr-to-intune-with-the-win32app-migration-tool/).
+
 The **Win32App Migration Tool** is a free community tool that has been developed to do the scoping and heavy lifting for you as you consider building Win32apps in Intune while using your ConfigMgr apps as a reference. The tool is designed to inventory ConfigMgr Applications and Deployment Types, build .intunewin files and create Win32apps directly in the MEM admin center.
 
 <!--more-->
